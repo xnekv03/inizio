@@ -1,3 +1,6 @@
+[Adresa aplikace](https://inizio.appfactory.cz)
+[Repozitář](https://github.com/xnekv03/inizio)
+
 1. formulář pro zadávání IČO
 2. formulář bude napojen na ARES (https://wwwinfo.mfcr.cz/ares/ares_xml.html.cz)
 3. po odeslání formuláře bude kontaktována služba ARES a z této služby budou získané údejo o firmě podle zadaného IČO

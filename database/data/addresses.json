@@ -1,0 +1,3002 @@
+[
+  {
+    "address": "47 MySakila Drive",
+    "address2": null,
+    "district": "Alberta",
+    "city_id": 300,
+    "postal_code": "",
+    "phone": "",
+    "location": "POINT(-112.8185647 49.6999986)",
+    "last_update": "2014-09-25 22:30:27"
+  },
+  {
+    "address": "28 MySQL Boulevard",
+    "address2": null,
+    "district": "QLD",
+    "city_id": 576,
+    "postal_code": "",
+    "phone": "",
+    "location": "POINT(153.1408538 -27.6333361)",
+    "last_update": "2014-09-25 22:30:09"
+  },
+  {
+    "address": "23 Workhaven Lane",
+    "address2": null,
+    "district": "Alberta",
+    "city_id": 300,
+    "postal_code": "",
+    "phone": "14033335568",
+    "location": "POINT(-112.8185673 49.6999951)",
+    "last_update": "2014-09-25 22:30:27"
+  },
+  {
+    "address": "1411 Lillydale Drive",
+    "address2": null,
+    "district": "QLD",
+    "city_id": 576,
+    "postal_code": "",
+    "phone": "6172235589",
+    "location": "POINT(153.1913094 -27.6333373)",
+    "last_update": "2014-09-25 22:30:09"
+  },
+  {
+    "address": "1913 Hanoi Way",
+    "address2": "",
+    "district": "Nagasaki",
+    "city_id": 463,
+    "postal_code": "35200",
+    "phone": "28303384290",
+    "location": "POINT(129.7227851 33.1591726)",
+    "last_update": "2014-09-25 22:31:53"
+  },
+  {
+    "address": "1121 Loja Avenue",
+    "address2": "",
+    "district": "California",
+    "city_id": 449,
+    "postal_code": "17886",
+    "phone": "838635286649",
+    "location": "POINT(-117.2897714 34.1083428)",
+    "last_update": "2014-09-25 22:34:01"
+  },
+  {
+    "address": "692 Joliet Street",
+    "address2": "",
+    "district": "Attika",
+    "city_id": 38,
+    "postal_code": "83579",
+    "phone": "448477190408",
+    "location": "POINT(23.7162294 37.9794508)",
+    "last_update": "2014-09-25 22:31:07"
+  },
+  {
+    "address": "1566 Inegl Manor",
+    "address2": "",
+    "district": "Mandalay",
+    "city_id": 349,
+    "postal_code": "53561",
+    "phone": "705814003527",
+    "location": "POINT(95.3884368 21.4600272)",
+    "last_update": "2014-09-25 22:32:18"
+  },
+  {
+    "address": "53 Idfu Parkway",
+    "address2": "",
+    "district": "Nantou",
+    "city_id": 361,
+    "postal_code": "42399",
+    "phone": "10655648674",
+    "location": "POINT(120.6638785 23.9156685)",
+    "last_update": "2014-09-25 22:33:16"
+  },
+  {
+    "address": "1795 Santiago de Compostela Way",
+    "address2": "",
+    "district": "Texas",
+    "city_id": 295,
+    "postal_code": "18743",
+    "phone": "860452626434",
+    "location": "POINT(-99.5075448 27.5064117)",
+    "last_update": "2014-09-25 22:33:55"
+  },
+  {
+    "address": "900 Santiago de Compostela Parkway",
+    "address2": "",
+    "district": "Central Serbia",
+    "city_id": 280,
+    "postal_code": "93896",
+    "phone": "716571220373",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:34:11"
+  },
+  {
+    "address": "478 Joliet Way",
+    "address2": "",
+    "district": "Hamilton",
+    "city_id": 200,
+    "postal_code": "77948",
+    "phone": "657282285970",
+    "location": "POINT(175.2833399 -37.7833313)",
+    "last_update": "2014-09-25 22:32:22"
+  },
+  {
+    "address": "613 Korolev Drive",
+    "address2": "",
+    "district": "Masqat",
+    "city_id": 329,
+    "postal_code": "45844",
+    "phone": "380657522649",
+    "location": "POINT(58.5922971 23.6138798)",
+    "last_update": "2014-09-25 22:32:29"
+  },
+  {
+    "address": "1531 Sal Drive",
+    "address2": "",
+    "district": "Esfahan",
+    "city_id": 162,
+    "postal_code": "53628",
+    "phone": "648856936185",
+    "location": "POINT(51.6746246 32.6524674)",
+    "last_update": "2014-09-25 22:31:36"
+  },
+  {
+    "address": "1542 Tarlac Parkway",
+    "address2": "",
+    "district": "Kanagawa",
+    "city_id": 440,
+    "postal_code": "1027",
+    "phone": "635297277345",
+    "location": "POINT(139.3589644 35.5557889)",
+    "last_update": "2014-09-25 22:31:53"
+  },
+  {
+    "address": "808 Bhopal Manor",
+    "address2": "",
+    "district": "Haryana",
+    "city_id": 582,
+    "postal_code": "10672",
+    "phone": "465887807014",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:30"
+  },
+  {
+    "address": "270 Amroha Parkway",
+    "address2": "",
+    "district": "Osmaniye",
+    "city_id": 384,
+    "postal_code": "29610",
+    "phone": "695479687538",
+    "location": "POINT(36.2477824 37.0741756)",
+    "last_update": "2014-09-25 22:33:27"
+  },
+  {
+    "address": "770 Bydgoszcz Avenue",
+    "address2": "",
+    "district": "California",
+    "city_id": 120,
+    "postal_code": "16266",
+    "phone": "517338314235",
+    "location": "POINT(-121.2810649 38.7071296)",
+    "last_update": "2014-09-25 22:33:47"
+  },
+  {
+    "address": "419 Iligan Lane",
+    "address2": "",
+    "district": "Madhya Pradesh",
+    "city_id": 76,
+    "postal_code": "72878",
+    "phone": "990911107354",
+    "location": "POINT(77.4028938 23.2546953)",
+    "last_update": "2014-09-25 22:31:13"
+  },
+  {
+    "address": "360 Toulouse Parkway",
+    "address2": "",
+    "district": "England",
+    "city_id": 495,
+    "postal_code": "54308",
+    "phone": "949312333307",
+    "location": "POINT(0.7143363 51.5378203)",
+    "last_update": "2014-09-25 22:33:40"
+  },
+  {
+    "address": "270 Toulon Boulevard",
+    "address2": "",
+    "district": "Kalmykia",
+    "city_id": 156,
+    "postal_code": "81766",
+    "phone": "407752414682",
+    "location": "POINT(44.2558374 46.3077803)",
+    "last_update": "2014-09-25 22:32:48"
+  },
+  {
+    "address": "320 Brest Avenue",
+    "address2": "",
+    "district": "Kaduna",
+    "city_id": 252,
+    "postal_code": "43331",
+    "phone": "747791594069",
+    "location": "POINT(7.4382858 10.5222412)",
+    "last_update": "2014-09-25 22:32:25"
+  },
+  {
+    "address": "1417 Lancaster Avenue",
+    "address2": "",
+    "district": "Northern Cape",
+    "city_id": 267,
+    "postal_code": "72192",
+    "phone": "272572357893",
+    "location": "POINT(24.7623254 -28.7322674)",
+    "last_update": "2014-09-25 22:33:03"
+  },
+  {
+    "address": "1688 Okara Way",
+    "address2": "",
+    "district": "Nothwest Border Prov",
+    "city_id": 327,
+    "postal_code": "21954",
+    "phone": "144453869132",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:30"
+  },
+  {
+    "address": "262 A Corua (La Corua) Parkway",
+    "address2": "",
+    "district": "Dhaka",
+    "city_id": 525,
+    "postal_code": "34418",
+    "phone": "892775750063",
+    "location": "POINT(89.9165584 24.2498482)",
+    "last_update": "2014-09-25 22:30:12"
+  },
+  {
+    "address": "28 Charlotte Amalie Street",
+    "address2": "",
+    "district": "Rabat-Sal-Zammour-Z",
+    "city_id": 443,
+    "postal_code": "37551",
+    "phone": "161968374323",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:16"
+  },
+  {
+    "address": "1780 Hino Boulevard",
+    "address2": "",
+    "district": "Liepaja",
+    "city_id": 303,
+    "postal_code": "7716",
+    "phone": "902731229323",
+    "location": "POINT(21.0166781 56.5166715)",
+    "last_update": "2014-09-25 22:31:58"
+  },
+  {
+    "address": "96 Tafuna Way",
+    "address2": "",
+    "district": "Crdoba",
+    "city_id": 128,
+    "postal_code": "99865",
+    "phone": "934730187245",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:05"
+  },
+  {
+    "address": "934 San Felipe de Puerto Plata Street",
+    "address2": "",
+    "district": "Sind",
+    "city_id": 472,
+    "postal_code": "99780",
+    "phone": "196495945706",
+    "location": "POINT(68.6378981 27.9570677)",
+    "last_update": "2014-09-25 22:32:31"
+  },
+  {
+    "address": "18 Duisburg Boulevard",
+    "address2": "",
+    "district": "",
+    "city_id": 121,
+    "postal_code": "58327",
+    "phone": "998009777982",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:08"
+  },
+  {
+    "address": "217 Botshabelo Place",
+    "address2": "",
+    "district": "Southern Mindanao",
+    "city_id": 138,
+    "postal_code": "49521",
+    "phone": "665356572025",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:36"
+  },
+  {
+    "address": "1425 Shikarpur Manor",
+    "address2": "",
+    "district": "Bihar",
+    "city_id": 346,
+    "postal_code": "65599",
+    "phone": "678220867005",
+    "location": "POINT(86.4735203 25.3755655)",
+    "last_update": "2014-09-25 22:31:20"
+  },
+  {
+    "address": "786 Aurora Avenue",
+    "address2": "",
+    "district": "Yamaguchi",
+    "city_id": 474,
+    "postal_code": "65750",
+    "phone": "18461860151",
+    "location": "POINT(130.9570667 33.9587914)",
+    "last_update": "2014-09-25 22:31:53"
+  },
+  {
+    "address": "1668 Anpolis Street",
+    "address2": "",
+    "district": "Taipei",
+    "city_id": 316,
+    "postal_code": "50199",
+    "phone": "525255540978",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:33:15"
+  },
+  {
+    "address": "33 Gorontalo Way",
+    "address2": "",
+    "district": "West Bengali",
+    "city_id": 257,
+    "postal_code": "30348",
+    "phone": "745994947458",
+    "location": "POINT(88.3747238 22.6711153)",
+    "last_update": "2014-09-25 22:31:18"
+  },
+  {
+    "address": "176 Mandaluyong Place",
+    "address2": "",
+    "district": "Uttar Pradesh",
+    "city_id": 239,
+    "postal_code": "65213",
+    "phone": "627705991774",
+    "location": "POINT(78.5822145 25.4544634)",
+    "last_update": "2014-09-25 22:31:17"
+  },
+  {
+    "address": "127 Purnea (Purnia) Manor",
+    "address2": "",
+    "district": "Piemonte",
+    "city_id": 17,
+    "postal_code": "79388",
+    "phone": "911872220378",
+    "location": "POINT(8.6100757 44.9092442)",
+    "last_update": "2014-09-25 22:31:42"
+  },
+  {
+    "address": "61 Tama Street",
+    "address2": "",
+    "district": "Okayama",
+    "city_id": 284,
+    "postal_code": "94065",
+    "phone": "708403338270",
+    "location": "POINT(133.7666798 34.5833369)",
+    "last_update": "2014-09-25 22:31:49"
+  },
+  {
+    "address": "391 Callao Drive",
+    "address2": "",
+    "district": "Midi-Pyrnes",
+    "city_id": 544,
+    "postal_code": "34021",
+    "phone": "440512153169",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:01"
+  },
+  {
+    "address": "334 Munger (Monghyr) Lane",
+    "address2": "",
+    "district": "Markazi",
+    "city_id": 31,
+    "postal_code": "38145",
+    "phone": "481183273622",
+    "location": "POINT(49.6891697 34.0917421)",
+    "last_update": "2014-09-25 22:31:36"
+  },
+  {
+    "address": "1440 Fukuyama Loop",
+    "address2": "",
+    "district": "Henan",
+    "city_id": 362,
+    "postal_code": "47929",
+    "phone": "912257250465",
+    "location": "POINT(112.5327806 32.9947239)",
+    "last_update": "2014-09-25 22:30:40"
+  },
+  {
+    "address": "269 Cam Ranh Parkway",
+    "address2": "",
+    "district": "Chisinau",
+    "city_id": 115,
+    "postal_code": "34689",
+    "phone": "489783829737",
+    "location": "POINT(28.8575834 47.0055601)",
+    "last_update": "2014-09-25 22:32:15"
+  },
+  {
+    "address": "306 Antofagasta Place",
+    "address2": "",
+    "district": "Esprito Santo",
+    "city_id": 569,
+    "postal_code": "3989",
+    "phone": "378318851631",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:23"
+  },
+  {
+    "address": "671 Graz Street",
+    "address2": "",
+    "district": "Oriental",
+    "city_id": 353,
+    "postal_code": "94399",
+    "phone": "680768868518",
+    "location": "POINT(-2.9335289 35.1681312)",
+    "last_update": "2014-09-25 22:32:16"
+  },
+  {
+    "address": "42 Brindisi Place",
+    "address2": "",
+    "district": "Yerevan",
+    "city_id": 586,
+    "postal_code": "16744",
+    "phone": "42384721397",
+    "location": "POINT(44.5136157 40.1811198)",
+    "last_update": "2014-09-25 22:30:08"
+  },
+  {
+    "address": "1632 Bislig Avenue",
+    "address2": "",
+    "district": "Nonthaburi",
+    "city_id": 394,
+    "postal_code": "61117",
+    "phone": "471675840679",
+    "location": "POINT(100.4988397 13.9130104)",
+    "last_update": "2014-09-25 22:33:20"
+  },
+  {
+    "address": "1447 Imus Way",
+    "address2": "",
+    "district": "Tahiti",
+    "city_id": 167,
+    "postal_code": "48942",
+    "phone": "539758313890",
+    "location": "POINT(-149.6843672 -17.5546957)",
+    "last_update": "2014-09-25 22:31:02"
+  },
+  {
+    "address": "1998 Halifax Drive",
+    "address2": "",
+    "district": "Lipetsk",
+    "city_id": 308,
+    "postal_code": "76022",
+    "phone": "177727722820",
+    "location": "POINT(39.5707653 52.6031163)",
+    "last_update": "2014-09-25 22:32:54"
+  },
+  {
+    "address": "1718 Valencia Street",
+    "address2": "",
+    "district": "Antofagasta",
+    "city_id": 27,
+    "postal_code": "37359",
+    "phone": "675292816413",
+    "location": "POINT(-70.3954856 -23.6523691)",
+    "last_update": "2014-09-25 22:30:29"
+  },
+  {
+    "address": "46 Pjatigorsk Lane",
+    "address2": "",
+    "district": "Moscow (City)",
+    "city_id": 343,
+    "postal_code": "23616",
+    "phone": "262076994845",
+    "location": "POINT(37.5386455 55.7488297)",
+    "last_update": "2014-09-25 22:32:55"
+  },
+  {
+    "address": "686 Garland Manor",
+    "address2": "",
+    "district": "Cear",
+    "city_id": 247,
+    "postal_code": "52535",
+    "phone": "69493378813",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:19"
+  },
+  {
+    "address": "909 Garland Manor",
+    "address2": "",
+    "district": "Tatarstan",
+    "city_id": 367,
+    "postal_code": "69367",
+    "phone": "705800322606",
+    "location": "POINT(51.8244755 55.6365792)",
+    "last_update": "2014-09-25 22:32:55"
+  },
+  {
+    "address": "725 Isesaki Place",
+    "address2": "",
+    "district": "Mekka",
+    "city_id": 237,
+    "postal_code": "74428",
+    "phone": "876295323994",
+    "location": "POINT(39.1979758 21.5423826)",
+    "last_update": "2014-09-25 22:33:00"
+  },
+  {
+    "address": "115 Hidalgo Parkway",
+    "address2": "",
+    "district": "Khartum",
+    "city_id": 379,
+    "postal_code": "80168",
+    "phone": "307703950263",
+    "location": "POINT(32.4777359 15.6445381)",
+    "last_update": "2014-09-25 22:33:11"
+  },
+  {
+    "address": "1135 Izumisano Parkway",
+    "address2": "",
+    "district": "California",
+    "city_id": 171,
+    "postal_code": "48150",
+    "phone": "171822533480",
+    "location": "POINT(-117.4350521 34.0922301)",
+    "last_update": "2014-09-25 22:33:50"
+  },
+  {
+    "address": "939 Probolinggo Loop",
+    "address2": "",
+    "district": "Galicia",
+    "city_id": 1,
+    "postal_code": "4166",
+    "phone": "680428310138",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:33:08"
+  },
+  {
+    "address": "17 Kabul Boulevard",
+    "address2": "",
+    "district": "Chiba",
+    "city_id": 355,
+    "postal_code": "38594",
+    "phone": "697760867968",
+    "location": "POINT(139.9026668 35.8563057)",
+    "last_update": "2014-09-25 22:31:51"
+  },
+  {
+    "address": "1964 Allappuzha (Alleppey) Street",
+    "address2": "",
+    "district": "Yamaguchi",
+    "city_id": 227,
+    "postal_code": "48980",
+    "phone": "920811325222",
+    "location": "POINT(132.2220908 34.1629706)",
+    "last_update": "2014-09-25 22:31:47"
+  },
+  {
+    "address": "1697 Kowloon and New Kowloon Loop",
+    "address2": "",
+    "district": "Moskova",
+    "city_id": 49,
+    "postal_code": "57807",
+    "phone": "499352017190",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:47"
+  },
+  {
+    "address": "1668 Saint Louis Place",
+    "address2": "",
+    "district": "Tahiti",
+    "city_id": 397,
+    "postal_code": "39072",
+    "phone": "347487831378",
+    "location": "POINT(-149.5665635 -17.5373362)",
+    "last_update": "2014-09-25 22:31:02"
+  },
+  {
+    "address": "943 Tokat Street",
+    "address2": "",
+    "district": "Vaduz",
+    "city_id": 560,
+    "postal_code": "45428",
+    "phone": "889318963672",
+    "location": "POINT(9.5215498 47.1415115)",
+    "last_update": "2014-09-25 22:31:58"
+  },
+  {
+    "address": "1114 Liepaja Street",
+    "address2": "",
+    "district": "Sarawak",
+    "city_id": 282,
+    "postal_code": "69226",
+    "phone": "212869228936",
+    "location": "POINT(110.3333389 1.5570314)",
+    "last_update": "2014-09-25 22:32:00"
+  },
+  {
+    "address": "1213 Ranchi Parkway",
+    "address2": "",
+    "district": "Karnataka",
+    "city_id": 350,
+    "postal_code": "94352",
+    "phone": "800024380485",
+    "location": "POINT(766456911 13.5639657)",
+    "last_update": "2014-09-25 22:31:21"
+  },
+  {
+    "address": "81 Hodeida Way",
+    "address2": "",
+    "district": "Rajasthan",
+    "city_id": 231,
+    "postal_code": "55561",
+    "phone": "250767749542",
+    "location": "POINT(75.7878198 26.9196216)",
+    "last_update": "2014-09-25 22:31:17"
+  },
+  {
+    "address": "915 Ponce Place",
+    "address2": "",
+    "district": "Basel-Stadt",
+    "city_id": 56,
+    "postal_code": "83980",
+    "phone": "1395251317",
+    "location": "POINT(7.5732756 47.5583998)",
+    "last_update": "2014-09-25 22:33:12"
+  },
+  {
+    "address": "1717 Guadalajara Lane",
+    "address2": "",
+    "district": "Missouri",
+    "city_id": 441,
+    "postal_code": "85505",
+    "phone": "914090181665",
+    "location": "POINT(-90.1978931 38.6272726)",
+    "last_update": "2014-09-25 22:33:59"
+  },
+  {
+    "address": "1214 Hanoi Way",
+    "address2": "",
+    "district": "Nebraska",
+    "city_id": 306,
+    "postal_code": "67055",
+    "phone": "491001136577",
+    "location": "POINT(-96.6669636 40.8194939)",
+    "last_update": "2014-09-25 22:33:56"
+  },
+  {
+    "address": "1966 Amroha Avenue",
+    "address2": "",
+    "district": "Sichuan",
+    "city_id": 139,
+    "postal_code": "70385",
+    "phone": "333489324603",
+    "location": "POINT(107.5009216 31.2159254)",
+    "last_update": "2014-09-25 22:30:32"
+  },
+  {
+    "address": "698 Otsu Street",
+    "address2": "",
+    "district": "Cayenne",
+    "city_id": 105,
+    "postal_code": "71110",
+    "phone": "409983924481",
+    "location": "POINT(-52.3333399 4.9333377)",
+    "last_update": "2014-09-25 22:31:02"
+  },
+  {
+    "address": "1150 Kimchon Manor",
+    "address2": "",
+    "district": "Skne ln",
+    "city_id": 321,
+    "postal_code": "96109",
+    "phone": "663449333709",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:33:11"
+  },
+  {
+    "address": "1586 Guaruj Place",
+    "address2": "",
+    "district": "Hunan",
+    "city_id": 579,
+    "postal_code": "5135",
+    "phone": "947233365992",
+    "location": "POINT(112.9985807 27.8519136)",
+    "last_update": "2014-09-25 22:30:46"
+  },
+  {
+    "address": "57 Arlington Manor",
+    "address2": "",
+    "district": "Madhya Pradesh",
+    "city_id": 475,
+    "postal_code": "48960",
+    "phone": "990214419142",
+    "location": "POINT(77.6514276 25.4308235)",
+    "last_update": "2014-09-25 22:31:27"
+  },
+  {
+    "address": "1031 Daugavpils Parkway",
+    "address2": "",
+    "district": "Bchar",
+    "city_id": 63,
+    "postal_code": "59025",
+    "phone": "107137400143",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:29:59"
+  },
+  {
+    "address": "1124 Buenaventura Drive",
+    "address2": "",
+    "district": "Mekka",
+    "city_id": 13,
+    "postal_code": "6856",
+    "phone": "407733804223",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:59"
+  },
+  {
+    "address": "492 Cam Ranh Street",
+    "address2": "",
+    "district": "Eastern Visayas",
+    "city_id": 61,
+    "postal_code": "50805",
+    "phone": "565018274456",
+    "location": "POINT(124.8006205 10.6785254)",
+    "last_update": "2014-09-25 22:32:34"
+  },
+  {
+    "address": "89 Allappuzha (Alleppey) Manor",
+    "address2": "",
+    "district": "National Capital Reg",
+    "city_id": 517,
+    "postal_code": "75444",
+    "phone": "255800440636",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:39"
+  },
+  {
+    "address": "1947 Poos de Caldas Boulevard",
+    "address2": "",
+    "district": "Chiayi",
+    "city_id": 114,
+    "postal_code": "60951",
+    "phone": "427454485876",
+    "location": "POINT(120.3928389 23.4617851)",
+    "last_update": "2014-09-25 22:33:14"
+  },
+  {
+    "address": "1206 Dos Quebradas Place",
+    "address2": "",
+    "district": "So Paulo",
+    "city_id": 431,
+    "postal_code": "20207",
+    "phone": "241832790687",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:21"
+  },
+  {
+    "address": "1551 Rampur Lane",
+    "address2": "",
+    "district": "Changhwa",
+    "city_id": 108,
+    "postal_code": "72394",
+    "phone": "251164340471",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:33:14"
+  },
+  {
+    "address": "602 Paarl Street",
+    "address2": "",
+    "district": "Pavlodar",
+    "city_id": 402,
+    "postal_code": "98889",
+    "phone": "896314772871",
+    "location": "POINT(77.0043801 52.2740146)",
+    "last_update": "2014-09-25 22:31:55"
+  },
+  {
+    "address": "1692 Ede Loop",
+    "address2": "",
+    "district": "So Paulo",
+    "city_id": 30,
+    "postal_code": "9223",
+    "phone": "918711376618",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:16"
+  },
+  {
+    "address": "936 Salzburg Lane",
+    "address2": "",
+    "district": "Uttar Pradesh",
+    "city_id": 425,
+    "postal_code": "96709",
+    "phone": "875756771675",
+    "location": "POINT(81.2449939 26.2191025)",
+    "last_update": "2014-09-25 22:31:24"
+  },
+  {
+    "address": "586 Tete Way",
+    "address2": "",
+    "district": "Kanagawa",
+    "city_id": 256,
+    "postal_code": "1079",
+    "phone": "18581624103",
+    "location": "POINT(139.5502887 35.3088962)",
+    "last_update": "2014-09-25 22:31:48"
+  },
+  {
+    "address": "1888 Kabul Drive",
+    "address2": "",
+    "district": "Oyo & Osun",
+    "city_id": 217,
+    "postal_code": "20936",
+    "phone": "701457319790",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:24"
+  },
+  {
+    "address": "320 Baiyin Parkway",
+    "address2": "",
+    "district": "Mahajanga",
+    "city_id": 319,
+    "postal_code": "37307",
+    "phone": "223664661973",
+    "location": "POINT(46.3166743 -15.7166741)",
+    "last_update": "2014-09-25 22:31:59"
+  },
+  {
+    "address": "927 Baha Blanca Parkway",
+    "address2": "",
+    "district": "Krim",
+    "city_id": 479,
+    "postal_code": "9495",
+    "phone": "821972242086",
+    "location": "POINT(34.1107975 44.9571971)",
+    "last_update": "2014-09-25 22:33:33"
+  },
+  {
+    "address": "929 Tallahassee Loop",
+    "address2": "",
+    "district": "Gauteng",
+    "city_id": 497,
+    "postal_code": "74671",
+    "phone": "800716535041",
+    "location": "POINT(28.4194136 -26.2533214)",
+    "last_update": "2014-09-25 22:33:06"
+  },
+  {
+    "address": "125 Citt del Vaticano Boulevard",
+    "address2": "",
+    "district": "Puebla",
+    "city_id": 40,
+    "postal_code": "67912",
+    "phone": "48417642933",
+    "location": "POINT(-98.4361382 18.9081595)",
+    "last_update": "2014-09-25 22:32:02"
+  },
+  {
+    "address": "1557 Ktahya Boulevard",
+    "address2": "",
+    "district": "England",
+    "city_id": 88,
+    "postal_code": "88002",
+    "phone": "720998247660",
+    "location": "POINT(-1.7520692 53.7939173)",
+    "last_update": "2014-09-25 22:33:36"
+  },
+  {
+    "address": "870 Ashqelon Loop",
+    "address2": "",
+    "district": "Songkhla",
+    "city_id": 489,
+    "postal_code": "84931",
+    "phone": "135117278909",
+    "location": "POINT(100.5951996 7.1988262)",
+    "last_update": "2014-09-25 22:33:20"
+  },
+  {
+    "address": "1740 Portoviejo Avenue",
+    "address2": "",
+    "district": "Sucre",
+    "city_id": 480,
+    "postal_code": "29932",
+    "phone": "198123170793",
+    "location": "POINT(-75.3977888 9.3047285)",
+    "last_update": "2014-09-25 22:30:53"
+  },
+  {
+    "address": "1942 Ciparay Parkway",
+    "address2": "",
+    "district": "Cheju",
+    "city_id": 113,
+    "postal_code": "82624",
+    "phone": "978987363654",
+    "location": "POINT(126.5461176 33.4016753)",
+    "last_update": "2014-09-25 22:33:06"
+  },
+  {
+    "address": "1926 El Alto Avenue",
+    "address2": "",
+    "district": "Buenos Aires",
+    "city_id": 289,
+    "postal_code": "75543",
+    "phone": "846225459260",
+    "location": "POINT(-57.9545302 -34.9214582)",
+    "last_update": "2014-09-25 22:30:05"
+  },
+  {
+    "address": "1952 Chatsworth Drive",
+    "address2": "",
+    "district": "Guangdong",
+    "city_id": 332,
+    "postal_code": "25958",
+    "phone": "991562402283",
+    "location": "POINT(116.1337663 24.3536429)",
+    "last_update": "2014-09-25 22:30:40"
+  },
+  {
+    "address": "1370 Le Mans Avenue",
+    "address2": "",
+    "district": "Brunei and Muara",
+    "city_id": 53,
+    "postal_code": "52163",
+    "phone": "345679835036",
+    "location": "POINT(114.9480606 4.9402974)",
+    "last_update": "2014-09-25 22:30:23"
+  },
+  {
+    "address": "984 Effon-Alaiye Avenue",
+    "address2": "",
+    "district": "Gois",
+    "city_id": 183,
+    "postal_code": "17119",
+    "phone": "132986892228",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:17"
+  },
+  {
+    "address": "832 Nakhon Sawan Manor",
+    "address2": "",
+    "district": "Inner Mongolia",
+    "city_id": 592,
+    "postal_code": "49021",
+    "phone": "275595571388",
+    "location": "POINT(122.7166725 486172957)",
+    "last_update": "2014-09-25 22:30:50"
+  },
+  {
+    "address": "152 Kitwe Parkway",
+    "address2": "",
+    "district": "Caraga",
+    "city_id": 82,
+    "postal_code": "53182",
+    "phone": "835433605312",
+    "location": "POINT(126.3163958 8.2152827)",
+    "last_update": "2014-09-25 22:32:35"
+  },
+  {
+    "address": "1697 Tanauan Lane",
+    "address2": "",
+    "district": "Punjab",
+    "city_id": 399,
+    "postal_code": "22870",
+    "phone": "4764773857",
+    "location": "POINT(75.6449709 32.3316749)",
+    "last_update": "2014-09-25 22:31:22"
+  },
+  {
+    "address": "1308 Arecibo Way",
+    "address2": "",
+    "district": "Georgia",
+    "city_id": 41,
+    "postal_code": "30695",
+    "phone": "6171054059",
+    "location": "POINT(-81.9748497 33.4709748)",
+    "last_update": "2014-09-25 22:33:43"
+  },
+  {
+    "address": "1599 Plock Drive",
+    "address2": "",
+    "district": "Tete",
+    "city_id": 534,
+    "postal_code": "71986",
+    "phone": "817248913162",
+    "location": "POINT(33.5866733 -16.1563948)",
+    "last_update": "2014-09-25 22:32:18"
+  },
+  {
+    "address": "669 Firozabad Loop",
+    "address2": "",
+    "district": "Abu Dhabi",
+    "city_id": 12,
+    "postal_code": "92265",
+    "phone": "412903167998",
+    "location": "POINT(55.7605667 24.1916795)",
+    "last_update": "2014-09-25 22:33:35"
+  },
+  {
+    "address": "588 Vila Velha Manor",
+    "address2": "",
+    "district": "Kyongsangbuk",
+    "city_id": 268,
+    "postal_code": "51540",
+    "phone": "333339908719",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:33:07"
+  },
+  {
+    "address": "1913 Kamakura Place",
+    "address2": "",
+    "district": "Lipetsk",
+    "city_id": 238,
+    "postal_code": "97287",
+    "phone": "942570536750",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:49"
+  },
+  {
+    "address": "733 Mandaluyong Place",
+    "address2": "",
+    "district": "Asir",
+    "city_id": 2,
+    "postal_code": "77459",
+    "phone": "196568435814",
+    "location": "POINT(42.5052814 18.2163937)",
+    "last_update": "2014-09-25 22:32:59"
+  },
+  {
+    "address": "659 Vaduz Drive",
+    "address2": "",
+    "district": "Ha Darom",
+    "city_id": 34,
+    "postal_code": "49708",
+    "phone": "709935135487",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:40"
+  },
+  {
+    "address": "1177 Jelets Way",
+    "address2": "",
+    "district": "Kwara & Kogi",
+    "city_id": 220,
+    "postal_code": "3305",
+    "phone": "484292626944",
+    "location": "POINT(4.5546462 8.5497914)",
+    "last_update": "2014-09-25 22:32:24"
+  },
+  {
+    "address": "1386 Yangor Avenue",
+    "address2": "",
+    "district": "Provence-Alpes-Cte",
+    "city_id": 543,
+    "postal_code": "80720",
+    "phone": "449216226468",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:01"
+  },
+  {
+    "address": "454 Nakhon Sawan Boulevard",
+    "address2": "",
+    "district": "Funafuti",
+    "city_id": 173,
+    "postal_code": "76383",
+    "phone": "963887147572",
+    "location": "POINT(179.1941789 -8.5242561)",
+    "last_update": "2014-09-25 22:33:31"
+  },
+  {
+    "address": "1867 San Juan Bautista Tuxtepec Avenue",
+    "address2": "",
+    "district": "Ivanovo",
+    "city_id": 225,
+    "postal_code": "78311",
+    "phone": "547003310357",
+    "location": "POINT(40.9713993 56.9971905)",
+    "last_update": "2014-09-25 22:32:48"
+  },
+  {
+    "address": "1532 Dzerzinsk Way",
+    "address2": "",
+    "district": "Buenos Aires",
+    "city_id": 334,
+    "postal_code": "9599",
+    "phone": "330838016880",
+    "location": "POINT(-58.7282854 -34.6658341)",
+    "last_update": "2014-09-25 22:30:06"
+  },
+  {
+    "address": "1002 Ahmadnagar Manor",
+    "address2": "",
+    "district": "Mxico",
+    "city_id": 213,
+    "postal_code": "93026",
+    "phone": "371490777743",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:07"
+  },
+  {
+    "address": "682 Junan Way",
+    "address2": "",
+    "district": "North West",
+    "city_id": 273,
+    "postal_code": "30418",
+    "phone": "622255216127",
+    "location": "POINT(26.6667296 -26.8521304)",
+    "last_update": "2014-09-25 22:33:04"
+  },
+  {
+    "address": "804 Elista Drive",
+    "address2": "",
+    "district": "Hubei",
+    "city_id": 159,
+    "postal_code": "61069",
+    "phone": "379804592943",
+    "location": "POINT(109.4833346 30.3716555)",
+    "last_update": "2014-09-25 22:30:33"
+  },
+  {
+    "address": "1378 Alvorada Avenue",
+    "address2": "",
+    "district": "Distrito Federal",
+    "city_id": 102,
+    "postal_code": "75834",
+    "phone": "272234298332",
+    "location": "POINT(-66.8791948 10.4880184)",
+    "last_update": "2014-09-25 22:34:03"
+  },
+  {
+    "address": "793 Cam Ranh Avenue",
+    "address2": "",
+    "district": "California",
+    "city_id": 292,
+    "postal_code": "87057",
+    "phone": "824370924746",
+    "location": "POINT(-118.1367498 34.6980486)",
+    "last_update": "2014-09-25 22:33:55"
+  },
+  {
+    "address": "1079 Tel Aviv-Jaffa Boulevard",
+    "address2": "",
+    "district": "Sucre",
+    "city_id": 132,
+    "postal_code": "10885",
+    "phone": "358178933857",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:34:04"
+  },
+  {
+    "address": "442 Rae Bareli Place",
+    "address2": "",
+    "district": "Nordrhein-Westfalen",
+    "city_id": 148,
+    "postal_code": "24321",
+    "phone": "886636413768",
+    "location": "POINT(6.7651616 51.4324703)",
+    "last_update": "2014-09-25 22:31:04"
+  },
+  {
+    "address": "1107 Nakhon Sawan Avenue",
+    "address2": "",
+    "district": "Mxico",
+    "city_id": 365,
+    "postal_code": "75149",
+    "phone": "867546627903",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:11"
+  },
+  {
+    "address": "544 Malm Parkway",
+    "address2": "",
+    "district": "Central Java",
+    "city_id": 403,
+    "postal_code": "63502",
+    "phone": "386759646229",
+    "location": "POINT(109.3666757 -6.9424081)",
+    "last_update": "2014-09-25 22:31:34"
+  },
+  {
+    "address": "1967 Sincelejo Place",
+    "address2": "",
+    "district": "Gujarat",
+    "city_id": 176,
+    "postal_code": "73644",
+    "phone": "577812616052",
+    "location": "POINT(72.6833332 23.2166788)",
+    "last_update": "2014-09-25 22:31:16"
+  },
+  {
+    "address": "333 Goinia Way",
+    "address2": "",
+    "district": "Texas",
+    "city_id": 185,
+    "postal_code": "78625",
+    "phone": "909029256431",
+    "location": "POINT(-96.9977802 32.7459686)",
+    "last_update": "2014-09-25 22:33:51"
+  },
+  {
+    "address": "1987 Coacalco de Berriozbal Loop",
+    "address2": "",
+    "district": "al-Qalyubiya",
+    "city_id": 476,
+    "postal_code": "96065",
+    "phone": "787654415858",
+    "location": "POINT(31.2505396 30.1251153)",
+    "last_update": "2014-09-25 22:30:58"
+  },
+  {
+    "address": "241 Mosul Lane",
+    "address2": "",
+    "district": "Risaralda",
+    "city_id": 147,
+    "postal_code": "76157",
+    "phone": "765345144779",
+    "location": "POINT(-75.6672757 4.8391685)",
+    "last_update": "2014-09-25 22:30:52"
+  },
+  {
+    "address": "211 Chiayi Drive",
+    "address2": "",
+    "district": "Uttar Pradesh",
+    "city_id": 164,
+    "postal_code": "58186",
+    "phone": "665993880048",
+    "location": "POINT(79.0215973 26.7778423)",
+    "last_update": "2014-09-25 22:31:15"
+  },
+  {
+    "address": "1175 Tanauan Way",
+    "address2": "",
+    "district": "Lima",
+    "city_id": 305,
+    "postal_code": "64615",
+    "phone": "937222955822",
+    "location": "POINT(-77.0282484 -12.0431865)",
+    "last_update": "2014-09-25 22:32:33"
+  },
+  {
+    "address": "117 Boa Vista Way",
+    "address2": "",
+    "district": "Uttar Pradesh",
+    "city_id": 566,
+    "postal_code": "6804",
+    "phone": "677976133614",
+    "location": "POINT(83.0104161 25.3166821)",
+    "last_update": "2014-09-25 22:31:29"
+  },
+  {
+    "address": "848 Tafuna Manor",
+    "address2": "",
+    "district": "Ktahya",
+    "city_id": 281,
+    "postal_code": "45142",
+    "phone": "614935229095",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:33:27"
+  },
+  {
+    "address": "569 Baicheng Lane",
+    "address2": "",
+    "district": "Gauteng",
+    "city_id": 85,
+    "postal_code": "60304",
+    "phone": "490211944645",
+    "location": "POINT(28.2595823 -26.2119716)",
+    "last_update": "2014-09-25 22:33:02"
+  },
+  {
+    "address": "1666 Qomsheh Drive",
+    "address2": "",
+    "district": "So Paulo",
+    "city_id": 410,
+    "postal_code": "66255",
+    "phone": "582835362905",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:20"
+  },
+  {
+    "address": "801 Hagonoy Drive",
+    "address2": "",
+    "district": "Smolensk",
+    "city_id": 484,
+    "postal_code": "8439",
+    "phone": "237426099212",
+    "location": "POINT(32.0401193 54.7818296)",
+    "last_update": "2014-09-25 22:32:57"
+  },
+  {
+    "address": "1050 Garden Grove Avenue",
+    "address2": "",
+    "district": "Slaskie",
+    "city_id": 236,
+    "postal_code": "4999",
+    "phone": "973047364353",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:42"
+  },
+  {
+    "address": "1854 Tieli Street",
+    "address2": "",
+    "district": "Shandong",
+    "city_id": 302,
+    "postal_code": "15819",
+    "phone": "509492324775",
+    "location": "POINT(115.9776621 36.4559676)",
+    "last_update": "2014-09-25 22:30:39"
+  },
+  {
+    "address": "758 Junan Lane",
+    "address2": "",
+    "district": "Gois",
+    "city_id": 190,
+    "postal_code": "82639",
+    "phone": "935448624185",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:18"
+  },
+  {
+    "address": "1752 So Leopoldo Parkway",
+    "address2": "",
+    "district": "Taka-Karpatia",
+    "city_id": 345,
+    "postal_code": "14014",
+    "phone": "252265130067",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:33:32"
+  },
+  {
+    "address": "898 Belm Manor",
+    "address2": "",
+    "district": "Free State",
+    "city_id": 87,
+    "postal_code": "49757",
+    "phone": "707169393853",
+    "location": "POINT(26.7052868 -29.2701604)",
+    "last_update": "2014-09-25 22:33:02"
+  },
+  {
+    "address": "261 Saint Louis Way",
+    "address2": "",
+    "district": "Coahuila de Zaragoza",
+    "city_id": 541,
+    "postal_code": "83401",
+    "phone": "321944036800",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:13"
+  },
+  {
+    "address": "765 Southampton Drive",
+    "address2": "",
+    "district": "al-Qalyubiya",
+    "city_id": 421,
+    "postal_code": "4285",
+    "phone": "23712411567",
+    "location": "POINT(31.2056807 30.1792216)",
+    "last_update": "2014-09-25 22:30:57"
+  },
+  {
+    "address": "943 Johannesburg Avenue",
+    "address2": "",
+    "district": "Maharashtra",
+    "city_id": 417,
+    "postal_code": "5892",
+    "phone": "90921003005",
+    "location": "POINT(73.8553565 18.5195797)",
+    "last_update": "2014-09-25 22:31:24"
+  },
+  {
+    "address": "788 Atinsk Street",
+    "address2": "",
+    "district": "Karnataka",
+    "city_id": 211,
+    "postal_code": "81691",
+    "phone": "146497509724",
+    "location": "POINT(758133303 15.4501336)",
+    "last_update": "2014-09-25 22:31:17"
+  },
+  {
+    "address": "1749 Daxian Place",
+    "address2": "",
+    "district": "Gelderland",
+    "city_id": 29,
+    "postal_code": "11044",
+    "phone": "963369996279",
+    "location": "POINT(5.9694471 52.2194571)",
+    "last_update": "2014-09-25 22:32:20"
+  },
+  {
+    "address": "1587 Sullana Lane",
+    "address2": "",
+    "district": "Inner Mongolia",
+    "city_id": 207,
+    "postal_code": "85769",
+    "phone": "468060467018",
+    "location": "POINT(111.6522231 40.8105654)",
+    "last_update": "2014-09-25 22:30:35"
+  },
+  {
+    "address": "1029 Dzerzinsk Manor",
+    "address2": "",
+    "district": "Ynlin",
+    "city_id": 542,
+    "postal_code": "57519",
+    "phone": "33173584456",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:33:16"
+  },
+  {
+    "address": "1666 Beni-Mellal Place",
+    "address2": "",
+    "district": "Tennessee",
+    "city_id": 123,
+    "postal_code": "13377",
+    "phone": "9099941466",
+    "location": "POINT(-87.3594586 36.5297793)",
+    "last_update": "2014-09-25 22:33:48"
+  },
+  {
+    "address": "928 Jaffna Loop",
+    "address2": "",
+    "district": "Hiroshima",
+    "city_id": 172,
+    "postal_code": "93762",
+    "phone": "581852137991",
+    "location": "POINT(133.3666742 34.4833354)",
+    "last_update": "2014-09-25 22:31:45"
+  },
+  {
+    "address": "483 Ljubertsy Parkway",
+    "address2": "",
+    "district": "Scotland",
+    "city_id": 149,
+    "postal_code": "60562",
+    "phone": "581174211853",
+    "location": "POINT(-2.9748951 56.4691327)",
+    "last_update": "2014-09-25 22:33:36"
+  },
+  {
+    "address": "374 Bat Yam Boulevard",
+    "address2": "",
+    "district": "Kilis",
+    "city_id": 266,
+    "postal_code": "97700",
+    "phone": "923261616249",
+    "location": "POINT(37.1154257 36.7161151)",
+    "last_update": "2014-09-25 22:33:26"
+  },
+  {
+    "address": "1027 Songkhla Manor",
+    "address2": "",
+    "district": "Minsk",
+    "city_id": 340,
+    "postal_code": "30861",
+    "phone": "563660187896",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:13"
+  },
+  {
+    "address": "999 Sanaa Loop",
+    "address2": "",
+    "district": "Gauteng",
+    "city_id": 491,
+    "postal_code": "3439",
+    "phone": "918032330119",
+    "location": "POINT(28.0991912 -25.4728869)",
+    "last_update": "2014-09-25 22:33:05"
+  },
+  {
+    "address": "879 Newcastle Way",
+    "address2": "",
+    "district": "Michigan",
+    "city_id": 499,
+    "postal_code": "90732",
+    "phone": "206841104594",
+    "location": "POINT(-83.0302359 42.5803102)",
+    "last_update": "2014-09-25 22:34:01"
+  },
+  {
+    "address": "1337 Lincoln Parkway",
+    "address2": "",
+    "district": "Saitama",
+    "city_id": 555,
+    "postal_code": "99457",
+    "phone": "597815221267",
+    "location": "POINT(139.6452896 35.8616754)",
+    "last_update": "2014-09-25 22:31:55"
+  },
+  {
+    "address": "1952 Pune Lane",
+    "address2": "",
+    "district": "Saint-Denis",
+    "city_id": 442,
+    "postal_code": "92150",
+    "phone": "354615066969",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:46"
+  },
+  {
+    "address": "782 Mosul Street",
+    "address2": "",
+    "district": "Massachusetts",
+    "city_id": 94,
+    "postal_code": "25545",
+    "phone": "885899703621",
+    "location": "POINT(-71.0183899 42.0834357)",
+    "last_update": "2014-09-25 22:33:46"
+  },
+  {
+    "address": "781 Shimonoseki Drive",
+    "address2": "",
+    "district": "Michoacn de Ocampo",
+    "city_id": 202,
+    "postal_code": "95444",
+    "phone": "632316273199",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:06"
+  },
+  {
+    "address": "1560 Jelets Boulevard",
+    "address2": "",
+    "district": "Shandong",
+    "city_id": 291,
+    "postal_code": "77777",
+    "phone": "189446090264",
+    "location": "POINT(117.6569432 36.1927835)",
+    "last_update": "2014-09-25 22:30:38"
+  },
+  {
+    "address": "1963 Moscow Place",
+    "address2": "",
+    "district": "Assam",
+    "city_id": 354,
+    "postal_code": "64863",
+    "phone": "761379480249",
+    "location": "POINT(92.6922571 26.3503746)",
+    "last_update": "2014-09-25 22:31:21"
+  },
+  {
+    "address": "456 Escobar Way",
+    "address2": "",
+    "district": "Jakarta Raya",
+    "city_id": 232,
+    "postal_code": "36061",
+    "phone": "719202533520",
+    "location": "POINT(106.8451399 -6.2146236)",
+    "last_update": "2014-09-25 22:31:33"
+  },
+  {
+    "address": "798 Cianjur Avenue",
+    "address2": "",
+    "district": "Shanxi",
+    "city_id": 590,
+    "postal_code": "76990",
+    "phone": "499408708580",
+    "location": "POINT(110.9927885 35.0230678)",
+    "last_update": "2014-09-25 22:30:49"
+  },
+  {
+    "address": "185 Novi Sad Place",
+    "address2": "",
+    "district": "Bern",
+    "city_id": 72,
+    "postal_code": "41778",
+    "phone": "904253967161",
+    "location": "POINT(7.4474467 46.9480957)",
+    "last_update": "2014-09-25 22:33:13"
+  },
+  {
+    "address": "1367 Yantai Manor",
+    "address2": "",
+    "district": "Ondo & Ekiti",
+    "city_id": 381,
+    "postal_code": "21294",
+    "phone": "889538496300",
+    "location": "POINT(5.0833356 7.1666732)",
+    "last_update": "2014-09-25 22:32:26"
+  },
+  {
+    "address": "1386 Nakhon Sawan Boulevard",
+    "address2": "",
+    "district": "Pyongyang-si",
+    "city_id": 420,
+    "postal_code": "53502",
+    "phone": "368899174225",
+    "location": "POINT(125.7543291 39.0338568)",
+    "last_update": "2014-09-25 22:32:28"
+  },
+  {
+    "address": "369 Papeete Way",
+    "address2": "",
+    "district": "North Carolina",
+    "city_id": 187,
+    "postal_code": "66639",
+    "phone": "170117068815",
+    "location": "POINT(-79.7919837 36.0726408)",
+    "last_update": "2014-09-25 22:33:52"
+  },
+  {
+    "address": "1440 Compton Place",
+    "address2": "",
+    "district": "North Austria",
+    "city_id": 307,
+    "postal_code": "81037",
+    "phone": "931059836497",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:10"
+  },
+  {
+    "address": "1623 Baha Blanca Manor",
+    "address2": "",
+    "district": "Moskova",
+    "city_id": 310,
+    "postal_code": "81511",
+    "phone": "149981248346",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:54"
+  },
+  {
+    "address": "97 Shimoga Avenue",
+    "address2": "",
+    "district": "Tel Aviv",
+    "city_id": 533,
+    "postal_code": "44660",
+    "phone": "177167004331",
+    "location": "POINT(34.7805719 32.0808879)",
+    "last_update": "2014-09-25 22:31:41"
+  },
+  {
+    "address": "1740 Le Mans Loop",
+    "address2": "",
+    "district": "Pays de la Loire",
+    "city_id": 297,
+    "postal_code": "22853",
+    "phone": "168476538960",
+    "location": "POINT(0.2925425 489535594)",
+    "last_update": "2014-09-25 22:31:01"
+  },
+  {
+    "address": "1287 Xiangfan Boulevard",
+    "address2": "",
+    "district": "Gifu",
+    "city_id": 253,
+    "postal_code": "57844",
+    "phone": "819416131190",
+    "location": "POINT(136.8666778 35.4166765)",
+    "last_update": "2014-09-25 22:31:48"
+  },
+  {
+    "address": "842 Salzburg Lane",
+    "address2": "",
+    "district": "Adana",
+    "city_id": 529,
+    "postal_code": "3313",
+    "phone": "697151428760",
+    "location": "POINT(35.6654367 37.2994811)",
+    "last_update": "2014-09-25 22:33:29"
+  },
+  {
+    "address": "154 Tallahassee Loop",
+    "address2": "",
+    "district": "Xinxiang",
+    "city_id": 199,
+    "postal_code": "62250",
+    "phone": "935508855935",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:34"
+  },
+  {
+    "address": "710 San Felipe del Progreso Avenue",
+    "address2": "",
+    "district": "Lilongwe",
+    "city_id": 304,
+    "postal_code": "76901",
+    "phone": "843801144113",
+    "location": "POINT(33.7872564 -13.9669289)",
+    "last_update": "2014-09-25 22:31:59"
+  },
+  {
+    "address": "1540 Wroclaw Drive",
+    "address2": "",
+    "district": "Maharashtra",
+    "city_id": 107,
+    "postal_code": "62686",
+    "phone": "182363341674",
+    "location": "POINT(79.2960722 19.9471171)",
+    "last_update": "2014-09-25 22:31:14"
+  },
+  {
+    "address": "475 Atinsk Way",
+    "address2": "",
+    "district": "Gansu",
+    "city_id": 240,
+    "postal_code": "59571",
+    "phone": "201705577290",
+    "location": "POINT(102.1937901 38.5006258)",
+    "last_update": "2014-09-25 22:30:36"
+  },
+  {
+    "address": "1294 Firozabad Drive",
+    "address2": "",
+    "district": "Jiangxi",
+    "city_id": 407,
+    "postal_code": "70618",
+    "phone": "161801569569",
+    "location": "POINT(113.8700962 27.5781343)",
+    "last_update": "2014-09-25 22:30:40"
+  },
+  {
+    "address": "1877 Ezhou Lane",
+    "address2": "",
+    "district": "Rajasthan",
+    "city_id": 550,
+    "postal_code": "63337",
+    "phone": "264541743403",
+    "location": "POINT(73.6918333 24.5711714)",
+    "last_update": "2014-09-25 22:31:28"
+  },
+  {
+    "address": "316 Uruapan Street",
+    "address2": "",
+    "district": "Perak",
+    "city_id": 223,
+    "postal_code": "58194",
+    "phone": "275788967899",
+    "location": "POINT(101.0829914 4.5841352)",
+    "last_update": "2014-09-25 22:31:59"
+  },
+  {
+    "address": "29 Pyongyang Loop",
+    "address2": "",
+    "district": "Batman",
+    "city_id": 58,
+    "postal_code": "47753",
+    "phone": "734780743462",
+    "location": "POINT(41.1322155 37.8873816)",
+    "last_update": "2014-09-25 22:33:23"
+  },
+  {
+    "address": "1010 Klerksdorp Way",
+    "address2": "",
+    "district": "Steiermark",
+    "city_id": 186,
+    "postal_code": "6802",
+    "phone": "493008546874",
+    "location": "POINT(15.4512761 47.0666727)",
+    "last_update": "2014-09-25 22:30:10"
+  },
+  {
+    "address": "1848 Salala Boulevard",
+    "address2": "",
+    "district": "Miranda",
+    "city_id": 373,
+    "postal_code": "25220",
+    "phone": "48265851133",
+    "location": "POINT(-66.7760937 10.1164909)",
+    "last_update": "2014-09-25 22:34:04"
+  },
+  {
+    "address": "431 Xiangtan Avenue",
+    "address2": "",
+    "district": "Kerala",
+    "city_id": 18,
+    "postal_code": "4854",
+    "phone": "230250973122",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:10"
+  },
+  {
+    "address": "757 Rustenburg Avenue",
+    "address2": "",
+    "district": "Skikda",
+    "city_id": 483,
+    "postal_code": "89668",
+    "phone": "506134035434",
+    "location": "POINT(6.9092172 36.8761757)",
+    "last_update": "2014-09-25 22:30:01"
+  },
+  {
+    "address": "146 Johannesburg Way",
+    "address2": "",
+    "district": "Tamaulipas",
+    "city_id": 330,
+    "postal_code": "54132",
+    "phone": "953689007081",
+    "location": "POINT(-97.5041713 25.8797291)",
+    "last_update": "2014-09-25 22:32:09"
+  },
+  {
+    "address": "1891 Rizhao Boulevard",
+    "address2": "",
+    "district": "So Paulo",
+    "city_id": 456,
+    "postal_code": "47288",
+    "phone": "391065549876",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:21"
+  },
+  {
+    "address": "1089 Iwatsuki Avenue",
+    "address2": "",
+    "district": "Kirov",
+    "city_id": 270,
+    "postal_code": "35109",
+    "phone": "866092335135",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:50"
+  },
+  {
+    "address": "1410 Benin City Parkway",
+    "address2": "",
+    "district": "Risaralda",
+    "city_id": 405,
+    "postal_code": "29747",
+    "phone": "104150372603",
+    "location": "POINT(-75.6961154 4.8133305)",
+    "last_update": "2014-09-25 22:30:52"
+  },
+  {
+    "address": "682 Garden Grove Place",
+    "address2": "",
+    "district": "Tennessee",
+    "city_id": 333,
+    "postal_code": "67497",
+    "phone": "72136330362",
+    "location": "POINT(-90.0489828 35.1495346)",
+    "last_update": "2014-09-25 22:33:57"
+  },
+  {
+    "address": "533 al-Ayn Boulevard",
+    "address2": "",
+    "district": "California",
+    "city_id": 126,
+    "postal_code": "8862",
+    "phone": "662227486184",
+    "location": "POINT(-118.2200788 33.8958567)",
+    "last_update": "2014-09-25 22:33:48"
+  },
+  {
+    "address": "1839 Szkesfehrvr Parkway",
+    "address2": "",
+    "district": "Gois",
+    "city_id": 317,
+    "postal_code": "55709",
+    "phone": "947468818183",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:20"
+  },
+  {
+    "address": "741 Ambattur Manor",
+    "address2": "",
+    "district": "Noord-Brabant",
+    "city_id": 438,
+    "postal_code": "43310",
+    "phone": "302590383819",
+    "location": "POINT(5.3041706 51.6991772)",
+    "last_update": "2014-09-25 22:32:21"
+  },
+  {
+    "address": "927 Barcelona Street",
+    "address2": "",
+    "district": "Chaharmahal va Bakht",
+    "city_id": 467,
+    "postal_code": "65121",
+    "phone": "951486492670",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:38"
+  },
+  {
+    "address": "435 0 Way",
+    "address2": "",
+    "district": "West Bengali",
+    "city_id": 195,
+    "postal_code": "74750",
+    "phone": "760171523969",
+    "location": "POINT(88.1097549 22.0604684)",
+    "last_update": "2014-09-25 22:31:16"
+  },
+  {
+    "address": "140 Chiayi Parkway",
+    "address2": "",
+    "district": "Sumy",
+    "city_id": 506,
+    "postal_code": "38982",
+    "phone": "855863906434",
+    "location": "POINT(34.8002989 50.9216315)",
+    "last_update": "2014-09-25 22:33:34"
+  },
+  {
+    "address": "1166 Changhwa Street",
+    "address2": "",
+    "district": "Caraga",
+    "city_id": 62,
+    "postal_code": "58852",
+    "phone": "650752094490",
+    "location": "POINT(125.7675248 8.7561117)",
+    "last_update": "2014-09-25 22:32:34"
+  },
+  {
+    "address": "891 Novi Sad Manor",
+    "address2": "",
+    "district": "Ontario",
+    "city_id": 383,
+    "postal_code": "5379",
+    "phone": "247646995453",
+    "location": "POINT(-78.8495705 43.9001243)",
+    "last_update": "2014-09-25 22:30:28"
+  },
+  {
+    "address": "605 Rio Claro Parkway",
+    "address2": "",
+    "district": "Tabora",
+    "city_id": 513,
+    "postal_code": "49348",
+    "phone": "352469351088",
+    "location": "POINT(32.8266393 -5.0162258)",
+    "last_update": "2014-09-25 22:33:18"
+  },
+  {
+    "address": "1077 San Felipe de Puerto Plata Place",
+    "address2": "",
+    "district": "Rostov-na-Donu",
+    "city_id": 369,
+    "postal_code": "65387",
+    "phone": "812824036424",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:56"
+  },
+  {
+    "address": "9 San Miguel de Tucumn Manor",
+    "address2": "",
+    "district": "Uttar Pradesh",
+    "city_id": 169,
+    "postal_code": "90845",
+    "phone": "956188728558",
+    "location": "POINT(78.4018032 27.1494196)",
+    "last_update": "2014-09-25 22:31:15"
+  },
+  {
+    "address": "447 Surakarta Loop",
+    "address2": "",
+    "district": "Nyanza",
+    "city_id": 271,
+    "postal_code": "10428",
+    "phone": "940830176580",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:56"
+  },
+  {
+    "address": "345 Oshawa Boulevard",
+    "address2": "",
+    "district": "Tokyo-to",
+    "city_id": 204,
+    "postal_code": "32114",
+    "phone": "104491201771",
+    "location": "POINT(139.4002884 35.6730684)",
+    "last_update": "2014-09-25 22:31:45"
+  },
+  {
+    "address": "1792 Valle de la Pascua Place",
+    "address2": "",
+    "district": "Nordrhein-Westfalen",
+    "city_id": 477,
+    "postal_code": "15540",
+    "phone": "419419591240",
+    "location": "POINT(8.0243129 50.8748198)",
+    "last_update": "2014-09-25 22:31:06"
+  },
+  {
+    "address": "1074 Binzhou Manor",
+    "address2": "",
+    "district": "Baden-Wrttemberg",
+    "city_id": 325,
+    "postal_code": "36490",
+    "phone": "331132568928",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:05"
+  },
+  {
+    "address": "817 Bradford Loop",
+    "address2": "",
+    "district": "Jiangsu",
+    "city_id": 109,
+    "postal_code": "89459",
+    "phone": "264286442804",
+    "location": "POINT(119.9540109 31.7735997)",
+    "last_update": "2014-09-25 22:30:31"
+  },
+  {
+    "address": "955 Bamenda Way",
+    "address2": "",
+    "district": "Ondo & Ekiti",
+    "city_id": 218,
+    "postal_code": "1545",
+    "phone": "768481779568",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:24"
+  },
+  {
+    "address": "1149 A Corua (La Corua) Boulevard",
+    "address2": "",
+    "district": "Haiphong",
+    "city_id": 194,
+    "postal_code": "95824",
+    "phone": "470884141195",
+    "location": "POINT(106.6834545 20.8648139)",
+    "last_update": "2014-09-25 22:34:06"
+  },
+  {
+    "address": "387 Mwene-Ditu Drive",
+    "address2": "",
+    "district": "Ahal",
+    "city_id": 35,
+    "postal_code": "8073",
+    "phone": "764477681869",
+    "location": "POINT(58.3833386 37.9575146)",
+    "last_update": "2014-09-25 22:33:30"
+  },
+  {
+    "address": "68 Molodetno Manor",
+    "address2": "",
+    "district": "Nordrhein-Westfalen",
+    "city_id": 575,
+    "postal_code": "4662",
+    "phone": "146640639760",
+    "location": "POINT(7.3525872 51.4436286)",
+    "last_update": "2014-09-25 22:31:06"
+  },
+  {
+    "address": "642 Nador Drive",
+    "address2": "",
+    "district": "Maharashtra",
+    "city_id": 77,
+    "postal_code": "3924",
+    "phone": "369050085652",
+    "location": "POINT(75.7817558 21.0465825)",
+    "last_update": "2014-09-25 22:31:13"
+  },
+  {
+    "address": "1688 Nador Lane",
+    "address2": "",
+    "district": "Sulawesi Utara",
+    "city_id": 184,
+    "postal_code": "61613",
+    "phone": "652218196731",
+    "location": "POINT(122.3166772 0.7726177)",
+    "last_update": "2014-09-25 22:31:32"
+  },
+  {
+    "address": "1215 Pyongyang Parkway",
+    "address2": "",
+    "district": "Usak",
+    "city_id": 557,
+    "postal_code": "25238",
+    "phone": "646237101779",
+    "location": "POINT(29.4058642 38.6735189)",
+    "last_update": "2014-09-25 22:33:30"
+  },
+  {
+    "address": "1679 Antofagasta Street",
+    "address2": "",
+    "district": "Alto Paran",
+    "city_id": 122,
+    "postal_code": "86599",
+    "phone": "905903574913",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:32"
+  },
+  {
+    "address": "1304 s-Hertogenbosch Way",
+    "address2": "",
+    "district": "Santa Catarina",
+    "city_id": 83,
+    "postal_code": "10925",
+    "phone": "90336226227",
+    "location": "POINT(-49.0661132 -26.9194492)",
+    "last_update": "2014-09-25 22:30:16"
+  },
+  {
+    "address": "850 Salala Loop",
+    "address2": "",
+    "district": "Kitaa",
+    "city_id": 371,
+    "postal_code": "10800",
+    "phone": "403404780639",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:07"
+  },
+  {
+    "address": "624 Oshawa Boulevard",
+    "address2": "",
+    "district": "West Bengali",
+    "city_id": 51,
+    "postal_code": "89959",
+    "phone": "49677664184",
+    "location": "POINT(88.7773227 25.2209978)",
+    "last_update": "2014-09-25 22:31:11"
+  },
+  {
+    "address": "43 Dadu Avenue",
+    "address2": "",
+    "district": "Rajasthan",
+    "city_id": 74,
+    "postal_code": "4855",
+    "phone": "95666951770",
+    "location": "POINT(74.6352311 25.3464477)",
+    "last_update": "2014-09-25 22:31:12"
+  },
+  {
+    "address": "751 Lima Loop",
+    "address2": "",
+    "district": "Aden",
+    "city_id": 7,
+    "postal_code": "99405",
+    "phone": "756460337785",
+    "location": "POINT(45.0366738 12.7794459)",
+    "last_update": "2014-09-25 22:34:08"
+  },
+  {
+    "address": "1333 Haldia Street",
+    "address2": "",
+    "district": "Jilin",
+    "city_id": 174,
+    "postal_code": "82161",
+    "phone": "408304391718",
+    "location": "POINT(124.8166714 45.1833321)",
+    "last_update": "2014-09-25 22:30:33"
+  },
+  {
+    "address": "660 Jedda Boulevard",
+    "address2": "",
+    "district": "Washington",
+    "city_id": 65,
+    "postal_code": "25053",
+    "phone": "168758068397",
+    "location": "POINT(-122.2006874 47.6103871)",
+    "last_update": "2014-09-25 22:33:45"
+  },
+  {
+    "address": "1001 Miyakonojo Lane",
+    "address2": "",
+    "district": "Taizz",
+    "city_id": 518,
+    "postal_code": "67924",
+    "phone": "584316724815",
+    "location": "POINT(44.0209143 13.5795289)",
+    "last_update": "2014-09-25 22:34:11"
+  },
+  {
+    "address": "226 Brest Manor",
+    "address2": "",
+    "district": "California",
+    "city_id": 508,
+    "postal_code": "2299",
+    "phone": "785881412500",
+    "location": "POINT(-122.0363565 37.3688354)",
+    "last_update": "2014-09-25 22:34:02"
+  },
+  {
+    "address": "1229 Valencia Parkway",
+    "address2": "",
+    "district": "Haskovo",
+    "city_id": 498,
+    "postal_code": "99124",
+    "phone": "352679173732",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:24"
+  },
+  {
+    "address": "1201 Qomsheh Manor",
+    "address2": "",
+    "district": "Gois",
+    "city_id": 28,
+    "postal_code": "21464",
+    "phone": "873492228462",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:15"
+  },
+  {
+    "address": "866 Shivapuri Manor",
+    "address2": "",
+    "district": "Uttar Pradesh",
+    "city_id": 448,
+    "postal_code": "22474",
+    "phone": "778502731092",
+    "location": "POINT(78.5668976 28.5832347)",
+    "last_update": "2014-09-25 22:31:26"
+  },
+  {
+    "address": "1168 Najafabad Parkway",
+    "address2": "",
+    "district": "Kabol",
+    "city_id": 251,
+    "postal_code": "40301",
+    "phone": "886649065861",
+    "location": "POINT(69.1723396 34.5281317)",
+    "last_update": "2014-09-25 22:29:59"
+  },
+  {
+    "address": "1244 Allappuzha (Alleppey) Place",
+    "address2": "",
+    "district": "Buenos Aires",
+    "city_id": 567,
+    "postal_code": "20657",
+    "phone": "991802825778",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:08"
+  },
+  {
+    "address": "1842 Luzinia Boulevard",
+    "address2": "",
+    "district": "Zanzibar West",
+    "city_id": 593,
+    "postal_code": "94420",
+    "phone": "706878974831",
+    "location": "POINT(39.1979342 -6.1639465)",
+    "last_update": "2014-09-25 22:33:19"
+  },
+  {
+    "address": "1926 Gingoog Street",
+    "address2": "",
+    "district": "Sisilia",
+    "city_id": 511,
+    "postal_code": "22824",
+    "phone": "469738825391",
+    "location": "POINT(15.2762835 37.0841577)",
+    "last_update": "2014-09-25 22:31:44"
+  },
+  {
+    "address": "810 Palghat (Palakkad) Boulevard",
+    "address2": "",
+    "district": "Jaroslavl",
+    "city_id": 235,
+    "postal_code": "73431",
+    "phone": "516331171356",
+    "location": "POINT(39.8736803 57.6298723)",
+    "last_update": "2014-09-25 22:32:49"
+  },
+  {
+    "address": "1820 Maring Parkway",
+    "address2": "",
+    "district": "Punjab",
+    "city_id": 324,
+    "postal_code": "88307",
+    "phone": "99760893676",
+    "location": "POINT(73.4843114 32.5833916)",
+    "last_update": "2014-09-25 22:32:30"
+  },
+  {
+    "address": "60 Poos de Caldas Street",
+    "address2": "",
+    "district": "Rajasthan",
+    "city_id": 243,
+    "postal_code": "82338",
+    "phone": "963063788669",
+    "location": "POINT(73.0059404 26.2684113)",
+    "last_update": "2014-09-25 22:31:18"
+  },
+  {
+    "address": "1014 Loja Manor",
+    "address2": "",
+    "district": "Tamil Nadu",
+    "city_id": 22,
+    "postal_code": "66851",
+    "phone": "460795526514",
+    "location": "POINT(80.1615253 13.0981817)",
+    "last_update": "2014-09-25 22:31:10"
+  },
+  {
+    "address": "201 Effon-Alaiye Way",
+    "address2": "",
+    "district": "Asuncin",
+    "city_id": 37,
+    "postal_code": "64344",
+    "phone": "684192903087",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:31"
+  },
+  {
+    "address": "430 Alessandria Loop",
+    "address2": "",
+    "district": "Saarland",
+    "city_id": 439,
+    "postal_code": "47446",
+    "phone": "669828224459",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:06"
+  },
+  {
+    "address": "754 Valencia Place",
+    "address2": "",
+    "district": "Phnom Penh",
+    "city_id": 406,
+    "postal_code": "87911",
+    "phone": "594319417514",
+    "location": "POINT(104.9160101 11.5624572)",
+    "last_update": "2014-09-25 22:30:25"
+  },
+  {
+    "address": "356 Olomouc Manor",
+    "address2": "",
+    "district": "Gois",
+    "city_id": 26,
+    "postal_code": "93323",
+    "phone": "22326410776",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:15"
+  },
+  {
+    "address": "1256 Bislig Boulevard",
+    "address2": "",
+    "district": "Botosani",
+    "city_id": 86,
+    "postal_code": "50598",
+    "phone": "479007229460",
+    "location": "POINT(26.6666762 47.7515488)",
+    "last_update": "2014-09-25 22:32:46"
+  },
+  {
+    "address": "954 Kimchon Place",
+    "address2": "",
+    "district": "West Bengali",
+    "city_id": 559,
+    "postal_code": "42420",
+    "phone": "541327526474",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:28"
+  },
+  {
+    "address": "885 Yingkou Manor",
+    "address2": "",
+    "district": "Kaduna",
+    "city_id": 596,
+    "postal_code": "31390",
+    "phone": "588964509072",
+    "location": "POINT(7.7227418 11.1112878)",
+    "last_update": "2014-09-25 22:32:28"
+  },
+  {
+    "address": "1736 Cavite Place",
+    "address2": "",
+    "district": "Qina",
+    "city_id": 216,
+    "postal_code": "98775",
+    "phone": "431770603551",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:56"
+  },
+  {
+    "address": "346 Skikda Parkway",
+    "address2": "",
+    "district": "Hawalli",
+    "city_id": 233,
+    "postal_code": "90628",
+    "phone": "630424482919",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:57"
+  },
+  {
+    "address": "98 Stara Zagora Boulevard",
+    "address2": "",
+    "district": "Valle",
+    "city_id": 96,
+    "postal_code": "76448",
+    "phone": "610173756082",
+    "location": "POINT(-77.0311671 3.8801538)",
+    "last_update": "2014-09-25 22:30:51"
+  },
+  {
+    "address": "1479 Rustenburg Boulevard",
+    "address2": "",
+    "district": "Southern Tagalog",
+    "city_id": 527,
+    "postal_code": "18727",
+    "phone": "727785483194",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:40"
+  },
+  {
+    "address": "647 A Corua (La Corua) Street",
+    "address2": "",
+    "district": "Chollanam",
+    "city_id": 357,
+    "postal_code": "36971",
+    "phone": "792557457753",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:33:07"
+  },
+  {
+    "address": "1964 Gijn Manor",
+    "address2": "",
+    "district": "Karnataka",
+    "city_id": 473,
+    "postal_code": "14408",
+    "phone": "918119601885",
+    "location": "POINT(75.5679104 13.9315793)",
+    "last_update": "2014-09-25 22:31:26"
+  },
+  {
+    "address": "47 Syktyvkar Lane",
+    "address2": "",
+    "district": "West Java",
+    "city_id": 118,
+    "postal_code": "22236",
+    "phone": "63937119031",
+    "location": "POINT(106.7586171 -6.6230602)",
+    "last_update": "2014-09-25 22:31:31"
+  },
+  {
+    "address": "1148 Saarbrcken Parkway",
+    "address2": "",
+    "district": "Fukushima",
+    "city_id": 226,
+    "postal_code": "1921",
+    "phone": "137773001988",
+    "location": "POINT(140.8833374 37.0547352)",
+    "last_update": "2014-09-25 22:31:47"
+  },
+  {
+    "address": "1103 Bilbays Parkway",
+    "address2": "",
+    "district": "Hubei",
+    "city_id": 578,
+    "postal_code": "87660",
+    "phone": "279979529227",
+    "location": "POINT(112.1447918 32.0422301)",
+    "last_update": "2014-09-25 22:30:45"
+  },
+  {
+    "address": "1246 Boksburg Parkway",
+    "address2": "",
+    "district": "Hebei",
+    "city_id": 422,
+    "postal_code": "28349",
+    "phone": "890283544295",
+    "location": "POINT(119.5883327 39.9316729)",
+    "last_update": "2014-09-25 22:30:41"
+  },
+  {
+    "address": "1483 Pathankot Street",
+    "address2": "",
+    "district": "Tucumn",
+    "city_id": 454,
+    "postal_code": "37288",
+    "phone": "686015532180",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:06"
+  },
+  {
+    "address": "582 Papeete Loop",
+    "address2": "",
+    "district": "Central Visayas",
+    "city_id": 294,
+    "postal_code": "27722",
+    "phone": "569868543137",
+    "location": "POINT(123.9494442 10.3102867)",
+    "last_update": "2014-09-25 22:32:38"
+  },
+  {
+    "address": "300 Junan Street",
+    "address2": "",
+    "district": "Kyonggi",
+    "city_id": 553,
+    "postal_code": "81314",
+    "phone": "890289150158",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:33:08"
+  },
+  {
+    "address": "829 Grand Prairie Way",
+    "address2": "",
+    "district": "Paran",
+    "city_id": 328,
+    "postal_code": "6461",
+    "phone": "741070712873",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:20"
+  },
+  {
+    "address": "1473 Changhwa Parkway",
+    "address2": "",
+    "district": "Mxico",
+    "city_id": 124,
+    "postal_code": "75933",
+    "phone": "266798132374",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:03"
+  },
+  {
+    "address": "1309 Weifang Street",
+    "address2": "",
+    "district": "Florida",
+    "city_id": 520,
+    "postal_code": "57338",
+    "phone": "435785045362",
+    "location": "POINT(-84.2807393 30.4382689)",
+    "last_update": "2014-09-25 22:34:02"
+  },
+  {
+    "address": "1760 Oshawa Manor",
+    "address2": "",
+    "district": "Tianjin",
+    "city_id": 535,
+    "postal_code": "38140",
+    "phone": "56257502250",
+    "location": "POINT(117.1766766 39.1422277)",
+    "last_update": "2014-09-25 22:30:43"
+  },
+  {
+    "address": "786 Stara Zagora Way",
+    "address2": "",
+    "district": "Oyo & Osun",
+    "city_id": 390,
+    "postal_code": "98332",
+    "phone": "716256596301",
+    "location": "POINT(3.9333328 7.8531924)",
+    "last_update": "2014-09-25 22:32:27"
+  },
+  {
+    "address": "1966 Tonghae Street",
+    "address2": "",
+    "district": "Anhalt Sachsen",
+    "city_id": 198,
+    "postal_code": "36481",
+    "phone": "567359279425",
+    "location": "POINT(125127014 51.5661974)",
+    "last_update": "2014-09-25 22:31:05"
+  },
+  {
+    "address": "1497 Yuzhou Drive",
+    "address2": "",
+    "district": "England",
+    "city_id": 312,
+    "postal_code": "3433",
+    "phone": "246810237916",
+    "location": "POINT(-0.1257486 51.5085304)",
+    "last_update": "2014-09-25 22:33:37"
+  },
+  {
+    "address": "752 Ondo Loop",
+    "address2": "",
+    "district": "Miyazaki",
+    "city_id": 338,
+    "postal_code": "32474",
+    "phone": "134673576619",
+    "location": "POINT(131.0666764 31.7333371)",
+    "last_update": "2014-09-25 22:31:50"
+  },
+  {
+    "address": "1338 Zalantun Lane",
+    "address2": "",
+    "district": "Minas Gerais",
+    "city_id": 413,
+    "postal_code": "45403",
+    "phone": "840522972766",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:21"
+  },
+  {
+    "address": "127 Iwakuni Boulevard",
+    "address2": "",
+    "district": "Central Luzon",
+    "city_id": 192,
+    "postal_code": "20777",
+    "phone": "987442542471",
+    "location": "POINT(120.7327195 14.8341331)",
+    "last_update": "2014-09-25 22:32:37"
+  },
+  {
+    "address": "51 Laredo Avenue",
+    "address2": "",
+    "district": "Sagaing",
+    "city_id": 342,
+    "postal_code": "68146",
+    "phone": "884536620568",
+    "location": "POINT(95.1358394 22.1085695)",
+    "last_update": "2014-09-25 22:32:18"
+  },
+  {
+    "address": "771 Yaound Manor",
+    "address2": "",
+    "district": "Sofala",
+    "city_id": 64,
+    "postal_code": "86768",
+    "phone": "245477603573",
+    "location": "POINT(34.8388913 -19.8436187)",
+    "last_update": "2014-09-25 22:32:17"
+  },
+  {
+    "address": "532 Toulon Street",
+    "address2": "",
+    "district": "Santiago",
+    "city_id": 460,
+    "postal_code": "69517",
+    "phone": "46871694740",
+    "location": "POINT(-70.6970306 19.4517425)",
+    "last_update": "2014-09-25 22:30:55"
+  },
+  {
+    "address": "1027 Banjul Place",
+    "address2": "",
+    "district": "West Bengali",
+    "city_id": 197,
+    "postal_code": "50390",
+    "phone": "538241037443",
+    "location": "POINT(88.4185932 22.9321815)",
+    "last_update": "2014-09-25 22:31:16"
+  },
+  {
+    "address": "1158 Mandi Bahauddin Parkway",
+    "address2": "",
+    "district": "Shanxi",
+    "city_id": 136,
+    "postal_code": "98484",
+    "phone": "276555730211",
+    "location": "POINT(113.2913974 40.0936132)",
+    "last_update": "2014-09-25 22:30:32"
+  },
+  {
+    "address": "862 Xintai Lane",
+    "address2": "",
+    "district": "Cagayan Valley",
+    "city_id": 548,
+    "postal_code": "30065",
+    "phone": "265153400632",
+    "location": "POINT(121.7269485 17.6130638)",
+    "last_update": "2014-09-25 22:32:41"
+  },
+  {
+    "address": "816 Cayenne Parkway",
+    "address2": "",
+    "district": "Manab",
+    "city_id": 414,
+    "postal_code": "93629",
+    "phone": "282874611748",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:56"
+  },
+  {
+    "address": "1831 Nam Dinh Loop",
+    "address2": "",
+    "district": "National Capital Reg",
+    "city_id": 323,
+    "postal_code": "51990",
+    "phone": "322888976727",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:38"
+  },
+  {
+    "address": "446 Kirovo-Tepetsk Lane",
+    "address2": "",
+    "district": "Osaka",
+    "city_id": 203,
+    "postal_code": "19428",
+    "phone": "303967439816",
+    "location": "POINT(135.6176571 34.6711229)",
+    "last_update": "2014-09-25 22:31:45"
+  },
+  {
+    "address": "682 Halisahar Place",
+    "address2": "",
+    "district": "Severn Morava",
+    "city_id": 378,
+    "postal_code": "20536",
+    "phone": "475553436330",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:54"
+  },
+  {
+    "address": "1587 Loja Manor",
+    "address2": "",
+    "district": "Salzburg",
+    "city_id": 447,
+    "postal_code": "5410",
+    "phone": "621625204422",
+    "location": "POINT(13.0439929 47.7994114)",
+    "last_update": "2014-09-25 22:30:10"
+  },
+  {
+    "address": "1762 Paarl Parkway",
+    "address2": "",
+    "district": "Hunan",
+    "city_id": 298,
+    "postal_code": "53928",
+    "phone": "192459639410",
+    "location": "POINT(111.4294489 27.6880608)",
+    "last_update": "2014-09-25 22:30:39"
+  },
+  {
+    "address": "1519 Ilorin Place",
+    "address2": "",
+    "district": "Kerala",
+    "city_id": 395,
+    "postal_code": "49298",
+    "phone": "357445645426",
+    "location": "POINT(76.6562581 10.7744394)",
+    "last_update": "2014-09-25 22:31:21"
+  },
+  {
+    "address": "920 Kumbakonam Loop",
+    "address2": "",
+    "district": "California",
+    "city_id": 446,
+    "postal_code": "75090",
+    "phone": "685010736240",
+    "location": "POINT(-121.6555701 36.6777408)",
+    "last_update": "2014-09-25 22:34:00"
+  },
+  {
+    "address": "906 Goinia Way",
+    "address2": "",
+    "district": "Wielkopolskie",
+    "city_id": 255,
+    "postal_code": "83565",
+    "phone": "701767622697",
+    "location": "POINT(18.0910245 51.7610909)",
+    "last_update": "2014-09-25 22:32:42"
+  },
+  {
+    "address": "1675 Xiangfan Manor",
+    "address2": "",
+    "district": "Tamil Nadu",
+    "city_id": 283,
+    "postal_code": "11763",
+    "phone": "271149517630",
+    "location": "POINT(79.3912412 10.9620955)",
+    "last_update": "2014-09-25 22:31:20"
+  },
+  {
+    "address": "85 San Felipe de Puerto Plata Drive",
+    "address2": "",
+    "district": "Shandong",
+    "city_id": 584,
+    "postal_code": "46063",
+    "phone": "170739645687",
+    "location": "POINT(121.4408172 37.4764973)",
+    "last_update": "2014-09-25 22:30:48"
+  },
+  {
+    "address": "144 South Hill Loop",
+    "address2": "",
+    "district": "Guanajuato",
+    "city_id": 445,
+    "postal_code": "2012",
+    "phone": "45387294817",
+    "location": "POINT(-101.1915495 20.5719604)",
+    "last_update": "2014-09-25 22:32:11"
+  },
+  {
+    "address": "1884 Shikarpur Avenue",
+    "address2": "",
+    "district": "Haryana",
+    "city_id": 263,
+    "postal_code": "85548",
+    "phone": "959949395183",
+    "location": "POINT(76.9883944 29.6900906)",
+    "last_update": "2014-09-25 22:31:19"
+  },
+  {
+    "address": "1980 Kamjanets-Podilskyi Street",
+    "address2": "",
+    "district": "Illinois",
+    "city_id": 404,
+    "postal_code": "89502",
+    "phone": "874337098891",
+    "location": "POINT(-89.5889971 40.6936559)",
+    "last_update": "2014-09-25 22:33:57"
+  },
+  {
+    "address": "1944 Bamenda Way",
+    "address2": "",
+    "district": "Michigan",
+    "city_id": 573,
+    "postal_code": "24645",
+    "phone": "75975221996",
+    "location": "POINT(-83.0277992 42.4775472)",
+    "last_update": "2014-09-25 22:34:03"
+  },
+  {
+    "address": "556 Baybay Manor",
+    "address2": "",
+    "district": "Oyo & Osun",
+    "city_id": 374,
+    "postal_code": "55802",
+    "phone": "363982224739",
+    "location": "POINT(4.2644189 8.1567516)",
+    "last_update": "2014-09-25 22:32:25"
+  },
+  {
+    "address": "457 Tongliao Loop",
+    "address2": "",
+    "district": "Bursa",
+    "city_id": 222,
+    "postal_code": "56254",
+    "phone": "880756161823",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:33:25"
+  },
+  {
+    "address": "600 Bradford Street",
+    "address2": "",
+    "district": "East Azerbaidzan",
+    "city_id": 514,
+    "postal_code": "96204",
+    "phone": "117592274996",
+    "location": "POINT(46.2919332 38.0829411)",
+    "last_update": "2014-09-25 22:31:40"
+  },
+  {
+    "address": "1006 Santa Brbara dOeste Manor",
+    "address2": "",
+    "district": "Ondo & Ekiti",
+    "city_id": 389,
+    "postal_code": "36229",
+    "phone": "85059738746",
+    "location": "POINT(5.5868183 7.1962061)",
+    "last_update": "2014-09-25 22:32:26"
+  },
+  {
+    "address": "1308 Sumy Loop",
+    "address2": "",
+    "district": "Fujian",
+    "city_id": 175,
+    "postal_code": "30657",
+    "phone": "583021225407",
+    "location": "POINT(119.3061118 26.0613964)",
+    "last_update": "2014-09-25 22:30:34"
+  },
+  {
+    "address": "1405 Chisinau Place",
+    "address2": "",
+    "district": "Ponce",
+    "city_id": 411,
+    "postal_code": "8160",
+    "phone": "62781725285",
+    "location": "POINT(-66.6140669 18.0110803)",
+    "last_update": "2014-09-25 22:32:45"
+  },
+  {
+    "address": "226 Halifax Street",
+    "address2": "",
+    "district": "Xinxiang",
+    "city_id": 277,
+    "postal_code": "58492",
+    "phone": "790651020929",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:30:38"
+  },
+  {
+    "address": "1279 Udine Parkway",
+    "address2": "",
+    "district": "Edo & Delta",
+    "city_id": 69,
+    "postal_code": "75860",
+    "phone": "195003555232",
+    "location": "POINT(5.6274942 6.3350511)",
+    "last_update": "2014-09-25 22:32:23"
+  },
+  {
+    "address": "1336 Benin City Drive",
+    "address2": "",
+    "district": "Shiga",
+    "city_id": 386,
+    "postal_code": "46044",
+    "phone": "341242939532",
+    "location": "POINT(135.8683324 35.0044473)",
+    "last_update": "2014-09-25 22:31:53"
+  },
+  {
+    "address": "1155 Liaocheng Place",
+    "address2": "",
+    "district": "Oyo & Osun",
+    "city_id": 152,
+    "postal_code": "22650",
+    "phone": "558236142492",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:23"
+  },
+  {
+    "address": "1993 Tabuk Lane",
+    "address2": "",
+    "district": "Tamil Nadu",
+    "city_id": 522,
+    "postal_code": "64221",
+    "phone": "648482415405",
+    "location": "POINT(80.1270701 12.9246028)",
+    "last_update": "2014-09-25 22:31:27"
+  },
+  {
+    "address": "86 Higashiosaka Lane",
+    "address2": "",
+    "district": "Guanajuato",
+    "city_id": 563,
+    "postal_code": "33768",
+    "phone": "957128697225",
+    "location": "POINT(-101.1891745 20.3932178)",
+    "last_update": "2014-09-25 22:32:14"
+  },
+  {
+    "address": "1912 Allende Manor",
+    "address2": "",
+    "district": "Kowloon and New Kowl",
+    "city_id": 279,
+    "postal_code": "58124",
+    "phone": "172262454487",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:31:09"
+  },
+  {
+    "address": "544 Tarsus Boulevard",
+    "address2": "",
+    "district": "Gurico",
+    "city_id": 562,
+    "postal_code": "53145",
+    "phone": "892523334",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:34:05"
+  },
+  {
+    "address": "1936 Cuman Avenue",
+    "address2": "",
+    "district": "Virginia",
+    "city_id": 433,
+    "postal_code": "61195",
+    "phone": "976798660411",
+    "location": "POINT(-79.9414311 37.2709788)",
+    "last_update": "2014-09-25 22:33:58"
+  },
+  {
+    "address": "1192 Tongliao Street",
+    "address2": "",
+    "district": "Sharja",
+    "city_id": 470,
+    "postal_code": "19065",
+    "phone": "350970907017",
+    "location": "POINT(55.4120655 25.3373777)",
+    "last_update": "2014-09-25 22:33:35"
+  },
+  {
+    "address": "44 Najafabad Way",
+    "address2": "",
+    "district": "Baskimaa",
+    "city_id": 146,
+    "postal_code": "61391",
+    "phone": "96604821070",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:33:08"
+  },
+  {
+    "address": "32 Pudukkottai Lane",
+    "address2": "",
+    "district": "Ohio",
+    "city_id": 140,
+    "postal_code": "38834",
+    "phone": "967274728547",
+    "location": "POINT(-84.1916155 39.7589524)",
+    "last_update": "2014-09-25 22:33:49"
+  },
+  {
+    "address": "661 Chisinau Lane",
+    "address2": "",
+    "district": "Pietari",
+    "city_id": 274,
+    "postal_code": "8856",
+    "phone": "816436065431",
+    "location": "POINT(0 0)",
+    "last_update": "2014-09-25 22:32:51"
+  },
+  {
+    "address": "951 Stara Zagora Manor",
+    "address2": "",
+    "district": "Punjab",
+    "city_id": 400,
+    "postal_code": "98573",
+    "phone": "429925609431",
+    "location": "POINT(76.4026681 30.3271521)",
+    "last_update": "2014-09-25 22:31:22"
+  }
+]

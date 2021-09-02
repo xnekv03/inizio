@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index')->with(['records'=> Ares::all()]);
+    return view('index')->with(['records'=> Ares::orderBy('created_at','desc')->paginate(3)]);
 });
 
 

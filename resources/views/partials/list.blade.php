@@ -1,4 +1,4 @@
-<table class="table">
+<table class="table" id="list">
     <thead>
     <tr>
         <th scope="col">ičo</th>
@@ -15,6 +15,6 @@
         <td>{{$record->updated_at}}</td>
     </tr>
     @endforeach
-
     </tbody>
 </table>
+    {{ $records->links() }}

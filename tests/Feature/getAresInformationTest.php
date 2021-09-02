@@ -50,11 +50,14 @@ class getAresInformationTest extends TestCase
     protected function Data(): array
     {
         return [
-            'name'   => 'McDonald`s ČR spol. s r.o.',
-            'street' => 'Radlická 740/113c',
-            'town'   => 'Praha - Jinonice',
-            'zip'    => '15800',
-            'ico'    => 16191129,
+          'ares'=>
+          [
+              'name'   => 'McDonald`s ČR spol. s r.o.',
+              'street' => 'Radlická 740/113c',
+              'town'   => 'Praha - Jinonice',
+              'zip'    => '15800',
+              'ico'    => 16191129,
+          ]
         ];
     }
 
@@ -70,7 +73,7 @@ class getAresInformationTest extends TestCase
         $response->assertOk();
         self::assertCount(1, Ares::all());
 
-        $this->assertDatabaseHas('ares', $this->Data());
+        $this->assertDatabaseHas('ares', $this->Data()['ares']);
     }
 
     /** @test */
@@ -92,6 +95,6 @@ class getAresInformationTest extends TestCase
         $response->assertOk();
         self::assertCount(1, Ares::all());
 
-        $this->assertDatabaseHas('ares', $this->Data());
+        $this->assertDatabaseHas('ares', $this->Data()['ares']);
     }
 }

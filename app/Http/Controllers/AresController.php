@@ -37,14 +37,18 @@ class AresController extends Controller
             'zip'    => $record->getZip(),
         ];
 
-        if (Ares::whereIco($validated['ico'])->exists()){
-            Ares::whereIco($validated['ico'])->update($data);
-        } else{
-            $data['ico']=$validated['ico'];
+        $exists = Ares::whereIco($validated[ 'ico' ])->exists();
+        if ($exists) {
+            Ares::whereIco($validated[ 'ico' ])->update($data);
+        } else {
+            $data[ 'ico' ] = $validated[ 'ico' ];
             Ares::create($data);
         }
 
 
-        return response()->json(Ares::whereIco($validated['ico'])->first());
+        return response()->json([
+            'ares'   => Ares::whereIco($record->getCompanyId())->first(['name','street','town','zip','ico']),
+            'exists' => $exists,
+        ]);
     }
 }

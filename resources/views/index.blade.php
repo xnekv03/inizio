@@ -8,9 +8,9 @@
         </button>
 
 
-     @include('partials.list')
+    @include('partials.list')
 
-        <!-- Modal -->
+    <!-- Modal -->
         <div class="modal" tabindex="-1" role="dialog" id="formModal">
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
@@ -56,13 +56,21 @@
                             success: function (response) {
                                 console.log(response)
 
-                            },
-                            error: function (response) {
+                                if (!response.exists) {
 
-                                var chyba = JSON.stringify(response.responseJSON.errors)
-                                console.log(chyba)
-                                // alert(chyba);
+                                    var ico = response.ares.ico;
+                                    var name = response.ares.name;
+                                    var time = response.ares.created_at;
+                                    var markup = "<tr><td> " + ico + " </td><td> " + name + " </td><td>" + time + "</td></tr>";
+                                    $('#list tr:first').after(markup);
+                                }
                             }
+                            // error: function (response) {
+                            //
+                            //     var chyba = JSON.stringify(response.responseJSON.errors)
+                            //     console.log(chyba)
+                            //     // alert(chyba);
+                            // }
                         });
 
                     });

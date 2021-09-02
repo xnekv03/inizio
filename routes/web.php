@@ -1,5 +1,8 @@
 <?php
 
+
+use App\Http\Controllers\AresController;
+use App\Models\Ares;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,5 +17,10 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('index')->with(['records'=> Ares::all()]);
 });
+
+
+//Route::post('/ares', [AresController::class, 'fetch'])->name('ares.post');
+Route::post('/ares', [AresController::class, 'fetch']);
+//Route::post('/save', [AresController::class, 'save'])->name('ares.save');

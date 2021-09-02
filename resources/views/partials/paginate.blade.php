@@ -1,6 +1,6 @@
-<p>Vyhledejte v tabulce:</p>
-<input id="search" type="text" placeholder="Hledat..">
-<br><br>
+@extends('base')
+
+@section('content')
 
 
 <table class="table" id="list">
@@ -23,13 +23,5 @@
     </tbody>
 </table>
 
-<script>
-    $(document).ready(function(){
-        $("#search").on("keyup", function() {
-            var value = $(this).val().toLowerCase();
-            $("#list tr").filter(function() {
-                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-            });
-        });
-    });
-</script>
+{{ $records->links() }}
+@endsection

@@ -17,8 +17,12 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index')->with(['records'=> Ares::orderBy('created_at','desc')->paginate(3)]);
-});
+    return view('index')->with(['records'=> Ares::orderBy('created_at','desc')->get()]);
+})->name('search');
+
+Route::get('/paginate', function () {
+    return view('partials.paginate')->with(['records'=> Ares::orderBy('created_at','desc')->paginate(3)]);
+})->name('paginate');
 
 
 //Route::post('/ares', [AresController::class, 'fetch'])->name('ares.post');

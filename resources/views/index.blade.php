@@ -1,7 +1,7 @@
 @extends('base')
 
 @section('content')
-    <div class="container">
+
 
 
         <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#formModal">Přidat IČO
@@ -41,7 +41,6 @@
                     </div>
                 </div>
 
-            </div>
 
 
             <script type="text/javascript">

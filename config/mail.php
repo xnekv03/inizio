@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'default' => env('MAIL_MAILER', 'ses'),
+    'default' => env('MAIL_MAILER', 'smtp'),
 
     /*
     |--------------------------------------------------------------------------
@@ -92,7 +92,7 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'admin@abalin.net'),
+        'address' => env('MAIL_FROM_ADDRESS', 'admin@daniela-fitness.cz'),
         'name' => env('MAIL_FROM_NAME', 'VNE'),
     ],
 

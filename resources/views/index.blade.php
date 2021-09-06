@@ -52,25 +52,18 @@
                             data: {'ico': $('input[name=ico]').val(), '_token': $('input[name=_token]').val()},
                             dataType: 'JSON',
                             success: function (response) {
-                                console.log(response)
-
                                 if (!response.exists) {
-
                                     var ico = response.ares.ico;
                                     var name = response.ares.name;
                                     var d = new Date($.now());
 
                                     var date = d.getDate() + "-" + (d.getMonth() + 1) + "-" + d.getFullYear() + " " + d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds()
                                     var id = response.ares.id;
-
-
-                                    var detail = "<a href=/detail/"+ id+ ">detail</a>";
-
-                                    console.log(detail)
+                                    var detail = "<a href=/detail/" + id + ">detail</a>";
                                     var markup = "<tr><td> " + ico + " </td><td> " + name + " </td><td>" + date + "</td><td>" + detail + "</td></tr>";
                                     $('#list tr:first').after(markup);
                                 } else {
-                                        window.location.replace("/");
+                                    window.location.replace("/");
                                 }
                             }
                         });

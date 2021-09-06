@@ -70,7 +70,7 @@
                                     var markup = "<tr><td> " + ico + " </td><td> " + name + " </td><td>" + date + "</td><td>" + detail + "</td></tr>";
                                     $('#list tr:first').after(markup);
                                 } else {
-                                    //    window.location.replace("http://stackoverflow.com");
+                                        window.location.replace("/");
                                 }
                             }
                         });

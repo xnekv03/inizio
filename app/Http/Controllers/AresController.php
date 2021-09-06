@@ -44,12 +44,11 @@ class AresController extends Controller
             $data[ 'ico' ] = $validated[ 'ico' ];
             Ares::create($data);
         }
-
-
-        return response()->json([
-            'ares'   => Ares::whereIco($record->getCompanyId())->first(['name','street','town','zip','ico','id']),
+        $data = [
+            'ares' => Ares::whereIco($record->getCompanyId())->first(['name', 'street', 'town', 'zip', 'ico', 'id']),
             'exists' => $exists,
-        ]);
+        ];
+        return response()->json($data);
     }
 
     public function detail(Ares $ares)

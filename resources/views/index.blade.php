@@ -22,8 +22,7 @@
                 </div>
                 <div class="modal-body">
 
-
-                    <form method="post" action="/ares">
+                    <form  action="{{route('ares.getrecord')}}" method="post">
                         @csrf
                         <div class="mb-3">
                             <label for="exampleFormControlInput1" class="form-label">IČO</label>
@@ -33,7 +32,7 @@
 
                         <div class="modal-footer">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Zavřít</button>
-                            <button type="button" class="btn btn-primary" data-dismiss="modal" id="save">Uložit
+                            <button type="submit" class="btn btn-primary" data-dismiss="modal" id="save">Uložit
                             </button>
                         </div>
 
@@ -56,9 +55,9 @@
                                     var ico = response.ares.ico;
                                     var name = response.ares.name;
                                     var d = new Date($.now());
+                                    var id = response.ares.id;
 
                                     var date = d.getDate() + "-" + (d.getMonth() + 1) + "-" + d.getFullYear() + " " + d.getHours() + ":" + d.getMinutes() + ":" + d.getSeconds()
-                                    var id = response.ares.id;
                                     var detail = "<a href=/detail/" + id + ">detail</a>";
                                     var markup = "<tr><td> " + ico + " </td><td> " + name + " </td><td>" + date + "</td><td>" + detail + "</td></tr>";
                                     $('#list tr:first').after(markup);

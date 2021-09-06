@@ -1,4 +1,4 @@
-[Adresa aplikace](https://inizio.appfactory.cz)
+[Adresa aplikace](https://inizio.daniela-fitness.cz)
 
 [Repozitář](https://github.com/xnekv03/inizio)
 

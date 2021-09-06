@@ -2,12 +2,13 @@
 
 [Repozitář](https://github.com/xnekv03/inizio)
 
+Pokud jde o balíček s databází, ten jsem neinstaloval, protože jej již Laravel obsahuje, nicméně jsem instaloval například aws/aws-sdk-php nebo dfridrich/ares
 
 
 1. formulář pro zadávání IČO
 2. formulář bude napojen na ARES (https://wwwinfo.mfcr.cz/ares/ares_xml.html.cz)
 3. po odeslání formuláře bude kontaktována služba ARES a z této služby budou získané údejo o firmě podle zadaného IČO
-4. použít composer pro nainstalování nějakého balíčku pro práci s databázi
+4. použít composer pro nainstalování nějakého balíčku pro práci s databázi 
 5. vyhledané údaje společne se zadaným hledaným ICO a datumem vyhledání uložit do databáze
 6. vytvořit stránku, na které se budou propisovat vyhledané ICO výrazy a jejich výsledky z databáze s možnosti řazení dle názvu firmy a data vyhledání vzestupně a sestupně a přidat stránkování po 3
 7. nasadit hotovou práci na libovolný hosting pod libovolnou adresu, která ale musí být pro nás přistupná

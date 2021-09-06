@@ -18,13 +18,27 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('index')->with(['records'=> Ares::orderBy('created_at','desc')->get()]);
-})->name('search');
+})->name('created.desc');
 
 Route::get('/paginate', function () {
     return view('partials.paginate')->with(['records'=> Ares::orderBy('created_at','desc')->paginate(3)]);
 })->name('paginate');
 
 
-//Route::post('/ares', [AresController::class, 'fetch'])->name('ares.post');
-Route::post('/ares', [AresController::class, 'fetch']);
-//Route::post('/save', [AresController::class, 'save'])->name('ares.save');
+Route::get('/detail/{ares}', [AresController::class, 'detail'])->name('ares.detail');
+Route::post('/ares', [AresController::class, 'fetch'])->name('ares.getrecord');
+
+
+Route::get('/namedesc', function () {
+    return view('index')->with(['records'=> Ares::orderBy('name','desc')->get()]);
+})->name('name.desc');
+
+
+Route::get('/nameasc', function () {
+    return view('index')->with(['records'=> Ares::orderBy('name','asc')->get()]);
+})->name('name.asc');
+
+
+Route::get('/created', function () {
+    return view('index')->with(['records'=> Ares::orderBy('created_at','asc')->get()]);
+})->name('created.asc');

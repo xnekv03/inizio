@@ -47,8 +47,13 @@ class AresController extends Controller
 
 
         return response()->json([
-            'ares'   => Ares::whereIco($record->getCompanyId())->first(['name','street','town','zip','ico']),
+            'ares'   => Ares::whereIco($record->getCompanyId())->first(['name','street','town','zip','ico','id']),
             'exists' => $exists,
         ]);
+    }
+
+    public function detail(Ares $ares)
+    {
+        return view('detail')->with(['record'=>$ares]);
     }
 }

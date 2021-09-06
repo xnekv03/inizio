@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\AresController;
+use App\Http\Controllers\HelpersController;
 use App\Http\Controllers\RssFeedController;
 use App\Models\Ares;
 use Illuminate\Support\Facades\Route;
@@ -48,5 +49,14 @@ Route::get('/created', function () {
 Route::get('/address/{address}', [RssFeedController::class, 'detail'])->name('address.detail');
 Route::get('/feed', [RssFeedController::class, 'feed'])->name('rss');
 Route::post('/send', [RssFeedController::class, 'sendAddress'])->name('sendaddress');
+
+
+//helpery
+
+Route::get('/helpers', function () {
+    return view('helpers');
+})->name('helpers');
+Route::post('/add', [HelpersController::class, 'create'])->name('helper.add');
+Route::post('/delete', [HelpersController::class, 'truncate'])->name('helper.delete');
 
 

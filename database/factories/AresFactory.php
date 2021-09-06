@@ -27,6 +27,8 @@ class AresFactory extends Factory
             'street'=>$this->faker->streetAddress(),
             'town'=>$this->faker->city(),
             'zip'=>$this->faker->postcode(),
+            'created_at'=>$this->faker->dateTimeBetween('-3 days', 'now'),
+            'updated_at'=>$this->faker->dateTimeBetween('-3 days', 'now'),
         ];
     }
 }

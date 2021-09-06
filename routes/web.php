@@ -1,7 +1,7 @@
 <?php
 
-
 use App\Http\Controllers\AresController;
+use App\Http\Controllers\RssFeedController;
 use App\Models\Ares;
 use Illuminate\Support\Facades\Route;
 
@@ -42,3 +42,10 @@ Route::get('/nameasc', function () {
 Route::get('/created', function () {
     return view('index')->with(['records'=> Ares::orderBy('created_at','asc')->get()]);
 })->name('created.asc');
+
+//RSS
+
+Route::get('/address/{address}', [RssFeedController::class, 'detail'])->name('address.detail');
+Route::get('/feed', [RssFeedController::class, 'feed'])->name('rss');
+
+

@@ -47,5 +47,6 @@ Route::get('/created', function () {
 
 Route::get('/address/{address}', [RssFeedController::class, 'detail'])->name('address.detail');
 Route::get('/feed', [RssFeedController::class, 'feed'])->name('rss');
+Route::post('/send', [RssFeedController::class, 'sendAddress'])->name('sendaddress');
 
 

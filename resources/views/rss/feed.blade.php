@@ -11,17 +11,9 @@
 
         @foreach($addresses as $address)
             <item>
-                <title><![CDATA[{{ $address->title }}]]></title>
+                <title><![CDATA[{{ $address->address }}]]></title>
                 <link>{{ route('address.detail', ['address' => $address]) }}</link>
-                <address><![CDATA[{!! $address->address !!}]]></address>
-                <address2><![CDATA[{!! $address->address2 !!}]]></address2>
-                <district><![CDATA[{!! $address->district !!}]]></district>
-                <addressal_code><![CDATA[{!! $address->addressal_code !!}]]></addressal_code>
-                <phone><![CDATA[{!! $address->phone !!}]]></phone>
-                <location><![CDATA[{!! $address->location !!}]]></location>
-                <last_update><![CDATA[{!! $address->last_update !!}]]></last_update>
-                <guid>{{ $address->id }}</guid>
-                <pubDate>{{ $address->created_at }}</pubDate>
+                <pubDate>{{ $address->last_update->toIso8601String() }}</pubDate>
             </item>
         @endforeach
     </channel>

@@ -45,7 +45,7 @@ class AresController extends Controller
             Ares::create($data);
         }
         $data = [
-            'ares' => Ares::whereIco($record->getCompanyId())->first(['name', 'street', 'town', 'zip', 'ico', 'id']),
+            'ares'   => Ares::whereIco($record->getCompanyId())->first(['name', 'street', 'town', 'zip', 'ico', 'id']),
             'exists' => $exists,
         ];
         return response()->json($data);
@@ -53,6 +53,6 @@ class AresController extends Controller
 
     public function detail(Ares $ares)
     {
-        return view('detail')->with(['record'=>$ares]);
+        return view('detail')->with(['record' => $ares]);
     }
 }

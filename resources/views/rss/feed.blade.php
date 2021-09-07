@@ -3,9 +3,9 @@
 ?>
 <rss version="2.0">
     <channel>
-        <title><![CDATA[ Nekvapil ]]></title>
-        <link><![CDATA[ {{config('app.url')}} ]]></link>
-        <description><![CDATA[ {{config('app.name')}} ]]></description>
+        <title> Nekvapil</title>
+        <link> {{config('app.url')}}</link>
+        <description>{{config('app.name')}} ]]></description>
         <language>en</language>
         <pubDate>{{ now() }}</pubDate>
 

@@ -11,7 +11,7 @@
 
         @foreach($addresses as $address)
             <item>
-                <title><![CDATA[{{ $address->address }}]]></title>
+                <title>{{ $address->address }}</title>
                 <link>{{ route('address.detail', ['address' => $address]) }}</link>
                 <pubDate>{{ $address->last_update->toIso8601String() }}</pubDate>
             </item>

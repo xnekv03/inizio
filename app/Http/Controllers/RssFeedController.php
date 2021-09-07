@@ -11,7 +11,7 @@ class RssFeedController extends Controller
 {
     public function feed()
     {
-        $addresses = Address::orderBy('last_update', 'desc')->limit(50)->get();
+        $addresses = Address::orderBy('last_update', 'desc')->get();
         return response()->view('rss.feed', compact('addresses'))->header('Content-Type', 'application/xml');
     }
 

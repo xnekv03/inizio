@@ -5,7 +5,7 @@
     <channel>
         <title> Nekvapil</title>
         <link> {{config('app.url')}}</link>
-        <description>{{config('app.name')}} ]]></description>
+        <description>{{config('app.name')}}</description>
         <language>en</language>
         <pubDate>{{ now() }}</pubDate>
 

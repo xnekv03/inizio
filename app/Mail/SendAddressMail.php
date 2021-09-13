@@ -10,7 +10,7 @@ class SendAddressMail extends Mailable
     public Address $address;
 
     /**
-     * @param  Address  $address
+     * @param Address $address
      */
     public function __construct(Address $address)
     {

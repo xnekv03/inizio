@@ -25,7 +25,7 @@ class RssFeedController extends Controller
     {
         $validated = $request->validate([
             'mail' => 'required|email',
-            'id' => 'required|exists:addresses,id',
+            'id'   => 'required|exists:addresses,id',
         ]);
 
         Mail::to($validated['mail'])->send(new SendAddressMail(Address::find($validated['id'])));

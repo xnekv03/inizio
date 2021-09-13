@@ -18,30 +18,26 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index')->with(['records'=> Ares::orderBy('created_at','desc')->get()]);
+    return view('index')->with(['records'=> Ares::orderBy('created_at', 'desc')->get()]);
 })->name('created.desc');
 
 Route::get('/paginate', function () {
-    return view('partials.paginate')->with(['records'=> Ares::orderBy('created_at','desc')->paginate(3)]);
+    return view('partials.paginate')->with(['records'=> Ares::orderBy('created_at', 'desc')->paginate(3)]);
 })->name('paginate');
-
 
 Route::get('/detail/{ares}', [AresController::class, 'detail'])->name('ares.detail');
 Route::post('/ares', [AresController::class, 'fetch'])->name('ares.getrecord');
 
-
 Route::get('/namedesc', function () {
-    return view('index')->with(['records'=> Ares::orderBy('name','desc')->get()]);
+    return view('index')->with(['records'=> Ares::orderBy('name', 'desc')->get()]);
 })->name('name.desc');
 
-
 Route::get('/nameasc', function () {
-    return view('index')->with(['records'=> Ares::orderBy('name','asc')->get()]);
+    return view('index')->with(['records'=> Ares::orderBy('name', 'asc')->get()]);
 })->name('name.asc');
 
-
 Route::get('/created', function () {
-    return view('index')->with(['records'=> Ares::orderBy('created_at','asc')->get()]);
+    return view('index')->with(['records'=> Ares::orderBy('created_at', 'asc')->get()]);
 })->name('created.asc');
 
 //RSS
@@ -50,7 +46,6 @@ Route::get('/address/{address}', [RssFeedController::class, 'detail'])->name('ad
 Route::get('/feed', [RssFeedController::class, 'feed'])->name('rss');
 Route::post('/send', [RssFeedController::class, 'sendAddress'])->name('sendaddress');
 
-
 //helpery
 
 Route::get('/helpers', function () {
@@ -58,5 +53,3 @@ Route::get('/helpers', function () {
 })->name('helpers');
 Route::post('/add', [HelpersController::class, 'create'])->name('helper.add');
 Route::post('/delete', [HelpersController::class, 'truncate'])->name('helper.delete');
-
-

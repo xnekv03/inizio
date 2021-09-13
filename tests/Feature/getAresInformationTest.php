@@ -50,14 +50,13 @@ class getAresInformationTest extends TestCase
     protected function Data(): array
     {
         return [
-          'ares'=>
-          [
+          'ares'=> [
               'name'   => 'McDonald`s ČR spol. s r.o.',
               'street' => 'Radlická 740/113c',
               'town'   => 'Praha - Jinonice',
               'zip'    => '15800',
               'ico'    => 16191129,
-          ]
+          ],
         ];
     }
 
@@ -87,7 +86,6 @@ class getAresInformationTest extends TestCase
 
         $response->assertOk();
         self::assertCount(1, Ares::all());
-
 
         $response = $this->post('/ares', [
             'ico' => '16191129',

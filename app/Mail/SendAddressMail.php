@@ -17,9 +17,8 @@ class SendAddressMail extends Mailable
         $this->address = $address;
     }
 
-
     public function build()
     {
-        return $this->markdown('emails.send-address')->subject('Informace o adrese '. $this->address->address);
+        return $this->markdown('emails.send-address')->subject('Informace o adrese '.$this->address->address);
     }
 }

@@ -7,10 +7,10 @@ use Illuminate\Database\Eloquent\Model;
 class Address extends Model
 {
     protected $guarded = [];
-    public $timestamps =false;
+
+    public $timestamps = false;
 
     protected $casts = [
         'last_update' => 'datetime:Y-m-d',
     ];
-
 }

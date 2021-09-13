@@ -12,6 +12,7 @@ class RssFeedController extends Controller
     public function feed()
     {
         $addresses = Address::orderBy('last_update', 'desc')->get();
+
         return response()->view('rss.feed', compact('addresses'))->header('Content-Type', 'application/xml');
     }
 
@@ -30,6 +31,7 @@ class RssFeedController extends Controller
         Mail::to($validated['mail'])->send(new SendAddressMail(Address::find($validated['id'])));
 
         $request->session()->flash('alert-success', 'E-mail odeslán');
+
         return redirect(route('created.desc'));
     }
 }

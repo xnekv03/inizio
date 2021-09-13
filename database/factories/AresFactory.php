@@ -22,7 +22,7 @@ class AresFactory extends Factory
     public function definition()
     {
         return [
-            'ico'=>random_int(11111111,99999999),
+            'ico'=>random_int(11111111, 99999999),
             'name'=>$this->faker->company(),
             'street'=>$this->faker->streetAddress(),
             'town'=>$this->faker->city(),

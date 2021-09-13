@@ -17,12 +17,12 @@ class AresController extends Controller
 
         $ares = new AresService();
 
-
         try {
-            $record = $ares->findByIdentificationNumber($validated[ 'ico' ]);
+            $record = $ares->findByIdentificationNumber($validated['ico']);
         } catch (\Exception $e) {
-            $message = $e->getMessage().' ico: '.$validated[ 'ico' ];
+            $message = $e->getMessage().' ico: '.$validated['ico'];
             Log::warning($message);
+
             return response()->json([
                 'message' => $message,
             ], 500);
@@ -37,17 +37,18 @@ class AresController extends Controller
             'zip'    => $record->getZip(),
         ];
 
-        $exists = Ares::whereIco($validated[ 'ico' ])->exists();
+        $exists = Ares::whereIco($validated['ico'])->exists();
         if ($exists) {
-            Ares::whereIco($validated[ 'ico' ])->update($data);
+            Ares::whereIco($validated['ico'])->update($data);
         } else {
-            $data[ 'ico' ] = $validated[ 'ico' ];
+            $data['ico'] = $validated['ico'];
             Ares::create($data);
         }
         $data = [
             'ares'   => Ares::whereIco($record->getCompanyId())->first(['name', 'street', 'town', 'zip', 'ico', 'id']),
             'exists' => $exists,
         ];
+
         return response()->json($data);
     }
 

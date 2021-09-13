@@ -11,7 +11,7 @@ class AddressSeeder extends Seeder
     {
         $data = json_decode(file_get_contents('database/data/addresses.json'), true);
 
-        foreach ($data as $d){
+        foreach ($data as $d) {
             Address::create($d);
         }
     }

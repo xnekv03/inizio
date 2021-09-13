@@ -22,13 +22,13 @@ class AresFactory extends Factory
     public function definition()
     {
         return [
-            'ico'=>random_int(11111111, 99999999),
-            'name'=>$this->faker->company(),
-            'street'=>$this->faker->streetAddress(),
-            'town'=>$this->faker->city(),
-            'zip'=>$this->faker->postcode(),
-            'created_at'=>$this->faker->dateTimeBetween('-3 days', 'now'),
-            'updated_at'=>$this->faker->dateTimeBetween('-3 days', 'now'),
+            'ico'       => random_int(11111111, 99999999),
+            'name'      => $this->faker->company(),
+            'street'    => $this->faker->streetAddress(),
+            'town'      => $this->faker->city(),
+            'zip'       => $this->faker->postcode(),
+            'created_at'=> $this->faker->dateTimeBetween('-3 days', 'now'),
+            'updated_at'=> $this->faker->dateTimeBetween('-3 days', 'now'),
         ];
     }
 }

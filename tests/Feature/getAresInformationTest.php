@@ -50,13 +50,13 @@ class getAresInformationTest extends TestCase
     protected function Data(): array
     {
         return [
-          'ares'=> [
-              'name'   => 'McDonald`s ČR spol. s r.o.',
-              'street' => 'Radlická 740/113c',
-              'town'   => 'Praha - Jinonice',
-              'zip'    => '15800',
-              'ico'    => 16191129,
-          ],
+            'ares'=> [
+                'name'   => 'McDonald`s ČR spol. s r.o.',
+                'street' => 'Radlická 740/113c',
+                'town'   => 'Praha - Jinonice',
+                'zip'    => '15800',
+                'ico'    => 16191129,
+            ],
         ];
     }
 

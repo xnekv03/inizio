@@ -1,5 +1,3 @@
-[Adresa aplikace](https://inizio.daniela-fitness.cz)
-
 [Repozitář](https://github.com/xnekv03/inizio)
 
 Pokud jde o balíček s databází, ten jsem neinstaloval, protože jej již Laravel obsahuje, nicméně jsem instaloval například aws/aws-sdk-php nebo dfridrich/ares

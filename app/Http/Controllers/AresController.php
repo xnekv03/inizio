@@ -50,6 +50,17 @@ class AresController extends Controller
         ];
 
         return response()->json($data);
+
+
+
+
+
+
+
+
+
+
+
     }
 
     public function detail(Ares $ares)
